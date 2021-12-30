@@ -1,21 +1,21 @@
 
 <channels>
 <channel>
-<name>[B][COLOR white]Categoria: [/COLOR][COLOR green]Lançamentos[/COLOR][/B]</name>
+<name>[B][COLOR white]Categoria: [/COLOR][COLOR lime]Lançamentos[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
 <externallink>https://raw.githubusercontent.com/hugoow/yeloplays/main/lancamentos2021.xml</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 <info>DESCRIÇÃO DA CATEGORIA</info>
 </channel>
 <channel>
-<name>[B][COLOR white]Categoria: [/COLOR][COLOR green]Categorias[/COLOR][/B]</name>
+<name>[B][COLOR white]Categoria: [/COLOR][COLOR lime]Categorias[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
 <externallink>https://raw.githubusercontent.com/hugoow/yeloplays/main/lancamentos2021.xml</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 <info>DESCRIÇÃO DA CATEGORIA</info>
 </channel>
 <channel>
-<name>[B][COLOR white]Categoria: [/COLOR][COLOR green]Trilogias[/COLOR][/B]</name>
+<name>[B][COLOR white]Categoria: [/COLOR][COLOR lime]Trilogias[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
 <externallink>https://raw.githubusercontent.com/hugoow/yeloplays/main/lancamentos2021.xml</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
