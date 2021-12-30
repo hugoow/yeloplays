@@ -1,7 +1,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR white]Lançamentos[/COLOR][/B]</name>
+<name>[B][COLOR green]Categoria[/COLOR][COLOR white]Lançamentos[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
 <externallink>https://raw.githubusercontent.com/hugoow/yeloplays/main/lancamentos2021.xml</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
