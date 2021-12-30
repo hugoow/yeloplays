@@ -1,0 +1,13 @@
+<channel>
+<name>[B][COLOR white]FILMES[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
+<externallink>here</externallink>
+<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+<info>DESCRIÇÃO DA CATEGORIA</info>
+</channel><channel>
+<name>[B][COLOR white]Lançamentos[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
+<externallink>https://raw.githubusercontent.com/hugoow/yeloplays/main/lancamentos2021.xml</externallink>
+<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+<info>DESCRIÇÃO DA CATEGORIA</info>
+</channel>
