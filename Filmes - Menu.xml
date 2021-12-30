@@ -5,20 +5,20 @@
 <thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
 <externallink>https://raw.githubusercontent.com/hugoow/yeloplays/main/lancamentos2021.xml</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
-<info>DESCRIÇÃO DA CATEGORIA</info>
+<info>Filmes Recentementes Lançados</info>
 </channel>
 <channel>
 <name>[B][COLOR white]Categoria: [/COLOR][COLOR lime]Categorias[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
 <externallink>https://raw.githubusercontent.com/hugoow/yeloplays/main/lancamentos2021.xml</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
-<info>DESCRIÇÃO DA CATEGORIA</info>
+<info>Categorias Ex. Ação,Animação,Etc..</info>
 </channel>
 <channel>
 <name>[B][COLOR white]Categoria: [/COLOR][COLOR lime]Trilogias[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
 <externallink>https://raw.githubusercontent.com/hugoow/yeloplays/main/lancamentos2021.xml</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
-<info>DESCRIÇÃO DA CATEGORIA</info>
+<info>Sequencia De Filmes Organizadas Juntas</info>
 </channel>
 </channels>
