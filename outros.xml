@@ -1,0 +1,15 @@
+<item>
+<title>[B]Anime[/B]</title>
+<link>https://stmv1.srvif.com/animetv/animetv/playlist.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+</item>
+ 
+<item>
+<title>[B]Filme Veio[/B]</title>
+<link>https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w700286621.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+</item>
