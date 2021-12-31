@@ -1,7 +1,7 @@
 <item>
-<title>[B]Axn[/B]</title>
-<link>http://rec2.distv.net:80/adilson/123456/116$nome= Opção1</link>
- <link>http://50.7.34.155:2201/BR/axnhd-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull$nome= Opção2</link>
+<title>[B]Axn[/B]</title> 
+<link>http://50.7.34.155:2201/BR/axnhd-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull$nome= [B]Opção [COLOR gold]1[/COLOR][COLOR green](Melhor)[/COLOR][/B]</link>
+<link>http://rec2.distv.net:80/adilson/123456/116$nome= Opção 2</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLRLX1lCoFmUEDshITJeDUmnrcLWFktw2JyvGg7GXA=s900-c-k-c0x00ffffff-no-rj</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLRLX1lCoFmUEDshITJeDUmnrcLWFktw2JyvGg7GXA=s900-c-k-c0x00ffffff-no-rj</fanart>
 <info>AXN é um canal de televisão por assinatura de propriedade da Sony Pictures Entertainment, que foi inicialmente lançado a 22 de maio de 1997 na Ásia com o nome de Action Extreme Network (em português, Rede de Ação Extrema).</info>
@@ -23,6 +23,21 @@
 <item>
 <title>[B]Nat Geo[/B]</title>
 <link>http://rec2.distv.net:80/adilson/123456/172</link>
+<thumbnail>https://yt3.ggpht.com/ytc/AKedOLTdh4vj3oGXpCXT3lMqha9_Qq4-JvMBlpztnHvi_mI=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://yt3.ggpht.com/ytc/AKedOLTdh4vj3oGXpCXT3lMqha9_Qq4-JvMBlpztnHvi_mI=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
+<info>National Geographic (anteriormente conhecido como National Geographic Channel, também comercialmente abreviado e registrado como Nat Geo) é um canal de televisão por assinatura brasileiro, de propriedade da The Walt Disney Company. O canal é destinado a apresentação de documentários, séries e programas educativos sobre ciência, tecnologia, história e meio ambiente.</info>
+</item>
+<item>
+<title>[B]Telecine Action[/B]</title>
+<link>http://50.7.34.155:2201/BR/Telecine_Action_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull</link>
+<thumbnail>https://yt3.ggpht.com/ytc/AKedOLTdh4vj3oGXpCXT3lMqha9_Qq4-JvMBlpztnHvi_mI=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://yt3.ggpht.com/ytc/AKedOLTdh4vj3oGXpCXT3lMqha9_Qq4-JvMBlpztnHvi_mI=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
+<info>National Geographic (anteriormente conhecido como National Geographic Channel, também comercialmente abreviado e registrado como Nat Geo) é um canal de televisão por assinatura brasileiro, de propriedade da The Walt Disney Company. O canal é destinado a apresentação de documentários, séries e programas educativos sobre ciência, tecnologia, história e meio ambiente.</info>
+</item>
+<item>
+ <item>
+<title>[B]Star Channel[/B]</title>
+<link>http://50.7.34.155:2201/BR/Star_Channel-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLTdh4vj3oGXpCXT3lMqha9_Qq4-JvMBlpztnHvi_mI=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLTdh4vj3oGXpCXT3lMqha9_Qq4-JvMBlpztnHvi_mI=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>National Geographic (anteriormente conhecido como National Geographic Channel, também comercialmente abreviado e registrado como Nat Geo) é um canal de televisão por assinatura brasileiro, de propriedade da The Walt Disney Company. O canal é destinado a apresentação de documentários, séries e programas educativos sobre ciência, tecnologia, história e meio ambiente.</info>
