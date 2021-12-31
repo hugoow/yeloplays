@@ -21,8 +21,8 @@
 </item>
 <item>
 <title>[B]Axn[/B]</title> 
-<link>http://50.7.34.155:2201/BR/axnhd-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull$nome= [B]Opção [COLOR gold]1[/COLOR][COLOR green](Melhor)[/COLOR][/B]</link>
-<link>http://rec2.distv.net:80/adilson/123456/116$nome= Opção 2</link>
+<link>http://50.7.34.155:2201/BR/axnhd-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull$nome= [B]Opção [COLOR gold]1[/COLOR][COLOR lime](Melhor)[/COLOR][/B]</link>
+<link>http://rec2.distv.net:80/adilson/123456/116$nome= [B]Opção [COLOR gold]2[/COLOR][/B]</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLRLX1lCoFmUEDshITJeDUmnrcLWFktw2JyvGg7GXA=s900-c-k-c0x00ffffff-no-rj</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLRLX1lCoFmUEDshITJeDUmnrcLWFktw2JyvGg7GXA=s900-c-k-c0x00ffffff-no-rj</fanart>
 <info>AXN é um canal de televisão por assinatura de propriedade da Sony Pictures Entertainment, que foi inicialmente lançado a 22 de maio de 1997 na Ásia com o nome de Action Extreme Network (em português, Rede de Ação Extrema).</info>
@@ -43,9 +43,9 @@
 </item>
 <item>
 <title>[B]Dicovery Channel[/B]</title>
-<link>http://50.7.34.155:2201/BR/Discovery_Channel_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull$nome= Full Hd</link>
-<link>http://rec2.distv.net:80/patricia/123456/130$nome= HD</link>
-<link>http://rec2.distv.net:80/adilson/123456/130$nome= SD</link>
+<link>http://50.7.34.155:2201/BR/Discovery_Channel_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull$nome= [B][COLOR gold]Full Hd[/COLOR][B]</link>
+<link>http://rec2.distv.net:80/patricia/123456/130$nome= [B][COLOR gold]HD[/COLOR][/B]</link>
+<link>http://rec2.distv.net:80/adilson/123456/130$nome= [B][COLOR gold]SD[/COLOR][/B]</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLQ3_3PhvKkvT-qCfjeXRWfbJ_oCqjGBJ4MC2yby-A=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLQ3_3PhvKkvT-qCfjeXRWfbJ_oCqjGBJ4MC2yby-A=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>O Discovery Channel é um canal de televisão por assinatura distribuído pela Discovery Inc. destinado a apresentação de documentários, séries e programas educativos sobre ciência, tecnologia, história, meio ambiente e geografia.</info>
@@ -77,11 +77,4 @@
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLTdh4vj3oGXpCXT3lMqha9_Qq4-JvMBlpztnHvi_mI=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLTdh4vj3oGXpCXT3lMqha9_Qq4-JvMBlpztnHvi_mI=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>Leandro lesbico</info>
-</item>
-<item>
-<title>[B]Teste 2[/B]</title>
-<link>http://31.204.152.6:8081/live/fox/playlist.m3u8</link>
-<thumbnail>https://yt3.ggpht.com/ytc/AKedOLTdh4vj3oGXpCXT3lMqha9_Qq4-JvMBlpztnHvi_mI=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
-<fanart>https://yt3.ggpht.com/ytc/AKedOLTdh4vj3oGXpCXT3lMqha9_Qq4-JvMBlpztnHvi_mI=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
-<info>KKKKKKKmiaaaK</info>
 </item>
