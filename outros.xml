@@ -26,7 +26,14 @@
 <thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
 <fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
 <info>INFO DOS CANAIS.</info>
-</item> 
+</item>
+ <item>
+<title>[B]Desenhos Cartoon Network 24 Hrs[/B]</title>
+<link>https://www.youtube.com/watch?v=hpXd-M9ZDCE&ab_channel=CartoonNetworkBrasil</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+</item>
 <item>
 <title>[B]Filmes Antigos[/B]</title>
 <link>https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w700286621.m3u8</link>
