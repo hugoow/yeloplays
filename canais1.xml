@@ -272,10 +272,10 @@
 </item>
  <item>
 <title>[B]Teste 3[/B]</title>
-<link>http://144.217.72.15/DISCOVERYCHANNELHD/index.m3u8?token=5fed9400e2cc195402bb51cb0464b2ce</link>
+<link>plugin://plugin.video.f4mTester/play?uri=http://50.7.34.155:2201/BR/History_2_HD-br/tracks-v1a1/mono.ts?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLTdh4vj3oGXpCXT3lMqha9_Qq4-JvMBlpztnHvi_mI=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLTdh4vj3oGXpCXT3lMqha9_Qq4-JvMBlpztnHvi_mI=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
-<info>Leandro</info>
+<info>Leandro gui</info>
 </item>
  <item>
  <title>[B]Discovery Rede[/B]</title>
