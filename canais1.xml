@@ -265,7 +265,7 @@
 </item>
 <item>
 <title>[B]Teste 2[/B]</title>
-<link>http://185.152.66.43/BR1/disneychannelhd-br/index.m3u8?token=9eb81f8af7eddb1ff89f90da169ce8c0</link>
+<link>plugin://plugin.video.f4mTester/play?uri=http://103.195.103.31:2030/streams/102_451.ts</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLTdh4vj3oGXpCXT3lMqha9_Qq4-JvMBlpztnHvi_mI=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLTdh4vj3oGXpCXT3lMqha9_Qq4-JvMBlpztnHvi_mI=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>Leandro borges</info>
