@@ -227,6 +227,20 @@
 <fanart>https://yt3.ggpht.com/ytc/AKedOLQsYyJdEBTqxMQb5GN3r_mic055s9sIjWBMAbCh=s900-c-k-c0x00ffffff-no-rj</fanart>
 <info>SPORT TV é a principal estação televisiva portuguesa de conteúdos desportivos, e foi o primeiro canal premium produzido no país, em setembro de 1998. O conteúdo de programação dos 6 canais, consiste na transmissão de uma vasta cobertura das competições desportivas a nível mundial.</info>
 </item>
+ <item>
+<title>[B]|||| [COLOR gold]Variedades[/COLOR] ||||[/B]</title> 
+<link>https://raw.githubusercontent.com/hugoow/yeloplays/main/canais1.xml</link>
+<thumbnail>https://i.imgur.com/Bs9javZ.png</thumbnail>
+<fanart>https://i.imgur.com/Bs9javZ.png</fanart>
+<info>Categoria Variedades</info>
+</item>
+<item>
+<title>[B]Gnt[/B]</title>
+<link>http://50.7.34.155:2200/BR/GNT_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull</link>
+<thumbnail>https://yt3.ggpht.com/ufaBgym5TyCyT0dL0uC8x0Ho1onplgEmFP3MOIOMySMyfl1IhCet7TFNFhEBUK4uCC1h41SX=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://yt3.ggpht.com/ufaBgym5TyCyT0dL0uC8x0Ho1onplgEmFP3MOIOMySMyfl1IhCet7TFNFhEBUK4uCC1h41SX=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
+<info>GNT é um canal brasileiro de televisão paga. Lançado originalmente como GNT: Globosat News Television , uma rede de notícias e informação. Com o lançamento da GloboNews , em 1996, a sigla GNT perdeu o sentido e o canal passou a ser voltado para documentários e talk shows. Em 2003, o canal foi mais uma vez reposicionado, com aumento da programação feminina, como o sucesso do talk show Saia Justa . No entanto, alguns programas GNT originais permanecem, como Manhattan Connection , atualmente o programa original mais antigo na televisão por assinatura brasileira, embora esse programa tenha mudado para a GloboNews em janeiro de 2011.</info>
+</item>
 <item>
 <title>[B]|||| [COLOR gold]Infantil[/COLOR] ||||[/B]</title> 
 <link>https://raw.githubusercontent.com/hugoow/yeloplays/main/canais1.xml</link>
