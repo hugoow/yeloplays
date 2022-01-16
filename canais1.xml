@@ -177,10 +177,10 @@
 </item>
 <item>
 <title>[B]Dicovery Channel[/B]</title>
- <link>http://neonp2p.com:8080/reginaldo123/123reginaldo/856042$nome= [B][COLOR gold]Hd[/COLOR][COLOR lime]Melhor[/COLOR][/B]</link>
+ <link>http://50.7.34.155:2200/BR/Discovery_Channel_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull$nome= [B][COLOR gold]Hd[/COLOR][COLOR lime]Melhor[/COLOR][/B]</link>
 <link>http://50.7.34.155:2201/BR/Discovery_Channel_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull$nome= [B][COLOR gold]Full Hd[/COLOR][/B]</link>
 <link>http://rec2.distv.net:80/patricia/123456/130$nome= [B][COLOR gold]HD[/COLOR][/B]</link>
-<link>http://rec2.distv.net:80/adilson/123456/130$nome= [B][COLOR gold]SD[/COLOR][/B]</link>
+<link>http://neonp2p.com:8080/reginaldo123/123reginaldo/856042$nome= [B][COLOR gold]SD[/COLOR][/B]</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLQ3_3PhvKkvT-qCfjeXRWfbJ_oCqjGBJ4MC2yby-A=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLQ3_3PhvKkvT-qCfjeXRWfbJ_oCqjGBJ4MC2yby-A=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>O Discovery Channel é um canal de televisão por assinatura distribuído pela Discovery Inc. destinado a apresentação de documentários, séries e programas educativos sobre ciência, tecnologia, história, meio ambiente e geografia.</info>
@@ -216,15 +216,15 @@
   <item>
 <title>[B]ESPN[/B]</title>
 <link>http://50.7.34.155:2200/BR/ESPN_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null</link>
-<thumbnail>https://yt3.ggpht.com/ytc/AKedOLQsYyJdEBTqxMQb5GN3r_mic055s9sIjWBMAbCh=s900-c-k-c0x00ffffff-no-rj</thumbnail>
-<fanart>https://yt3.ggpht.com/ytc/AKedOLQsYyJdEBTqxMQb5GN3r_mic055s9sIjWBMAbCh=s900-c-k-c0x00ffffff-no-rj</fanart>
+<thumbnail>https://yt3.ggpht.com/ytc/AKedOLQnTp0nF29DOb9SPmL78U1bErKEdqNcskcjW-3wNuQ=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://yt3.ggpht.com/ytc/AKedOLQnTp0nF29DOb9SPmL78U1bErKEdqNcskcjW-3wNuQ=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>SPORT TV é a principal estação televisiva portuguesa de conteúdos desportivos, e foi o primeiro canal premium produzido no país, em setembro de 1998. O conteúdo de programação dos 6 canais, consiste na transmissão de uma vasta cobertura das competições desportivas a nível mundial.</info>
 </item>
   <item>
 <title>[B]ESPN BR[/B]</title>
 <link>http://50.7.34.155:2200/BR/ESPN_Brasil_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null</link>
-<thumbnail>https://yt3.ggpht.com/ytc/AKedOLQsYyJdEBTqxMQb5GN3r_mic055s9sIjWBMAbCh=s900-c-k-c0x00ffffff-no-rj</thumbnail>
-<fanart>https://yt3.ggpht.com/ytc/AKedOLQsYyJdEBTqxMQb5GN3r_mic055s9sIjWBMAbCh=s900-c-k-c0x00ffffff-no-rj</fanart>
+<thumbnail>https://yt3.ggpht.com/ytc/AKedOLQ-uDjWFLVnZiGxQfWRsLH6aMDrZNbnnxTYtDJ9EpE=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://yt3.ggpht.com/ytc/AKedOLQ-uDjWFLVnZiGxQfWRsLH6aMDrZNbnnxTYtDJ9EpE=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>SPORT TV é a principal estação televisiva portuguesa de conteúdos desportivos, e foi o primeiro canal premium produzido no país, em setembro de 1998. O conteúdo de programação dos 6 canais, consiste na transmissão de uma vasta cobertura das competições desportivas a nível mundial.</info>
 </item>
  <item>
@@ -258,8 +258,8 @@
 <item>
 <title>[B]Gnt[/B]</title>
 <link>http://50.7.34.155:2200/BR/GNT_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull</link>
-<thumbnail>https://yt3.ggpht.com/ufaBgym5TyCyT0dL0uC8x0Ho1onplgEmFP3MOIOMySMyfl1IhCet7TFNFhEBUK4uCC1h41SX=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
-<fanart>https://yt3.ggpht.com/ufaBgym5TyCyT0dL0uC8x0Ho1onplgEmFP3MOIOMySMyfl1IhCet7TFNFhEBUK4uCC1h41SX=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
+<thumbnail>https://yt3.ggpht.com/cq-1NQPGy8LbhlNtU2gtan7PZX3ki7UN04MmJtw4vtQYuQiq0kbT7qGFzecCIaDS3IlBJr8L=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://yt3.ggpht.com/cq-1NQPGy8LbhlNtU2gtan7PZX3ki7UN04MmJtw4vtQYuQiq0kbT7qGFzecCIaDS3IlBJr8L=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>GNT é um canal brasileiro de televisão paga. Lançado originalmente como GNT: Globosat News Television , uma rede de notícias e informação. Com o lançamento da GloboNews , em 1996, a sigla GNT perdeu o sentido e o canal passou a ser voltado para documentários e talk shows. Em 2003, o canal foi mais uma vez reposicionado, com aumento da programação feminina, como o sucesso do talk show Saia Justa . No entanto, alguns programas GNT originais permanecem, como Manhattan Connection , atualmente o programa original mais antigo na televisão por assinatura brasileira, embora esse programa tenha mudado para a GloboNews em janeiro de 2011.</info>
 </item>
 <item>
