@@ -1,0 +1,20 @@
+#EXTM3U
+
+################################################################################# INFORMAÇÕES
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/S9ayVt9.png" group-title="INFORMAÇÕES",[B][COLOR white]LISTA ATUALIZADA:[/COLOR] [COLOR gold]25/07/2017[/COLOR][/B]
+here
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/S9ayVt9.png" group-title="INFORMAÇÕES",[B][COLOR white]FEITO POR: [COLOR gold]WILLIAM[/COLOR][/B]
+here
+
+################################################################################# CANAIS ABERTOS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/S9ayVt9.png" group-title="CANAIS ABERTOS",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR][/B]
+here
+
+#EXTINF:-1 tvg-id="BAND HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/band.png" group-title="CANAIS ABERTOS",[B][COLOR white]BAND[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://lista.sv1.tv:25461/live/Flaviocliente/5070/1858.ts&name=[B][COLOR white]BAND[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="GLOBO RJ" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="Canais | ABERTO",Globo RJ
+http://50.7.34.155:2200/BR/Globo_HD_RJ-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
