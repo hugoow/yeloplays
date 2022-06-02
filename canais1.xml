@@ -28,7 +28,7 @@
 </item>
  <item>
 <title>[B]FX[/B]</title>
-<link>http://50.7.34.155:2201/BR/FX_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull</link>
+<link>http://45.232.196.7:5000/live/FX/720p.m3u8</link>
 <thumbnail>https://i.imgur.com/04WwH7w.jpg</thumbnail>
 <fanart>https://i.imgur.com/04WwH7w.jpg</fanart>
 <info>FX é um canal americano de televisão por assinatura de propriedade da FX Networks, LLC, uma subsidiária da unidade Disney General Entertainment da The Walt Disney Company. É baseado no lote Fox Studios em Century City, Califórnia. O FX foi originalmente lançado em 1 de junho de 1994.</info>
@@ -153,8 +153,9 @@
 <info>Star Life é um canal de televisão por assinatura brasileiro, de propriedade da The Walt Disney Company. O canal é voltado para o público que gosta de séries. O canal raramente exibe também filmes do gênero de drama.</info>
 </item>
 <item>
-<title>[B]Axn[/B]</title> 
-<link>http://187.85.237.8:8825/ipvt_005</link>
+<title>[B]Axn[/B]</title>
+<link>http://45.232.196.7:5000/live/AXN/720p.m3u8$nome=[B]1[/B]</link>
+<link>http://187.85.237.8:8825/ipvt_005$nome=[B]2[/B]</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLRLX1lCoFmUEDshITJeDUmnrcLWFktw2JyvGg7GXA=s900-c-k-c0x00ffffff-no-rj</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLRLX1lCoFmUEDshITJeDUmnrcLWFktw2JyvGg7GXA=s900-c-k-c0x00ffffff-no-rj</fanart>
 <info>AXN é um canal de televisão por assinatura de propriedade da Sony Pictures Entertainment, que foi inicialmente lançado a 22 de maio de 1997 na Ásia com o nome de Action Extreme Network (em português, Rede de Ação Extrema).</info>
@@ -168,16 +169,24 @@
 </item>
 <item>
 <title>[B]Animal Planet[/B]</title>
-<link>http://50.7.34.155:2201/BR/Animal_Planet_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull</link>
+<link>http://45.232.196.7:5000/live/ANIMALPLANET/720p.m3u8</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLTChNfvfVz3W6SDTskz8GCfMxVNeFrrEWOuNqpx=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLTChNfvfVz3W6SDTskz8GCfMxVNeFrrEWOuNqpx=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>O Animal Planet é um canal de televisão por assinatura com sede nos Estados Unidos da América e transmitido também para a América latina. Estabelecido pela primeira vez em 1 de outubro de 1996, a rede é dedicada principalmente a séries e documentários sobre animais selvagens e animais domésticos. O canal pertence à Discovery Inc.</info>
 </item>
 <item>
 <title>[B]Dicovery Channel[/B]</title>
-<link>http://51.222.29.49:8089/btv535dd127ab59eec0f307ff/BR%3A%20Discovery%20Channel%20FHD</link>
+<link>http://45.232.196.7:5000/live/DISCOVERY/720p.m3u8$nome=[B]1[/B]</link>
+<link>http://51.222.29.49:8089/btv0925f456c2a1cd0f941241/BR%3A%20Discovery%20Channel%20FHD$nome=[B]2[/B]</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLQ3_3PhvKkvT-qCfjeXRWfbJ_oCqjGBJ4MC2yby-A=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLQ3_3PhvKkvT-qCfjeXRWfbJ_oCqjGBJ4MC2yby-A=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
+<info>O Discovery Channel é um canal de televisão por assinatura distribuído pela Discovery Inc. destinado a apresentação de documentários, séries e programas educativos sobre ciência, tecnologia, história, meio ambiente e geografia.</info>
+</item>
+ <item>
+<title>[B]Dicovery Turbo[/B]</title>
+<link>http://51.222.29.49:8089/btv0925f456c2a1cd0f941241/BR%3A%20Discovery%20Turbo%20FHD</link>
+<thumbnail>https://yt3.ggpht.com/ytc/AKedOLSgjoI9BRrcE4ll_ErY5lLH-g03FU4HiQ_xwDxYJg=s900-c-k-c0x00ffffff-no-rj</thumbnail>
+<fanart>https://yt3.ggpht.com/ytc/AKedOLSgjoI9BRrcE4ll_ErY5lLH-g03FU4HiQ_xwDxYJg=s900-c-k-c0x00ffffff-no-rj</fanart>
 <info>O Discovery Channel é um canal de televisão por assinatura distribuído pela Discovery Inc. destinado a apresentação de documentários, séries e programas educativos sobre ciência, tecnologia, história, meio ambiente e geografia.</info>
 </item>
  <item>
@@ -203,7 +212,7 @@
 </item>
 <item>
 <title>[B]History 2[/B]</title>
-<link>http://50.7.34.155:2201/BR/History_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull</link>
+<link>http://45.232.196.7:5000/live/H2/720p.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/hugoow/yeloplays/main/Logos/history%202.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/hugoow/yeloplays/main/Logos/history%202.jpg</fanart>
 <info>H2 ou History 2 é um canal de televisão por assinatura que exibe documentários, pertencente a A&E Networks, canal irmão do History.</info>
