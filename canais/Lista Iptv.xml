@@ -132,20 +132,6 @@
 <info>Star Channel (anteriormente conhecido como Fox e posteriormente Fox Channel) é um canal de televisão por assinatura operado pela The Walt Disney Company América Latina, uma unidade da The Walt Disney Company. O canal exibe filmes da 20th Century Studios e séries dos canais Fox e ABC dos Estados Unidos. A emissora é integrante da Walt Disney Direct-to-Consumer & International. No dia 2 de junho de 2014, foi lançada a versão HD do canal para o Brasil, juntamente com o Nat Geo HD e FX HD.</info>
 </item>
  <item>
-<title>[B]Star Hits 1[/B]</title>
-<link>http://50.7.34.155:2201/BR/Star_Hits_1_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull</link>
-<thumbnail>https://raw.githubusercontent.com/hugoow/yeloplays/main/Logos/star%20hits%201.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/hugoow/yeloplays/main/Logos/star%20hits%201.jpg</fanart>
-<info>Star Hits 1 e Star Hits 2 oferece um amplo catálogo de séries aclamadas no mundo. Como  “Mrs América”, “The God Father of Harlem”, "Britannia" e "Impuros".</info>
-</item>
- <item>
-<title>[B]Star Hits 2[/B]</title>
-<link>http://50.7.34.155:2201/BR/Star_Hits_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull</link>
-<thumbnail>https://raw.githubusercontent.com/hugoow/yeloplays/main/Logos/star%20hits%202.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/hugoow/yeloplays/main/Logos/star%20hits%202.jpg</fanart>
-<info>Star Hits 1 e Star Hits 2 oferece um amplo catálogo de séries aclamadas no mundo. Como  “Mrs América”, “The God Father of Harlem”, "Britannia" e "Impuros".</info>
-</item>
- <item>
 <title>[B]Star Life[/B]</title>
 <link>http://51.222.30.109:8089/btv0925f456c2a1cd0f941241/BR%3A%20Star%20life%20FHD</link>
 <thumbnail>https://raw.githubusercontent.com/hugoow/yeloplays/main/Logos/star%20life.jpg</thumbnail>
@@ -187,35 +173,35 @@
 <link>http://51.222.29.49:8089/btv0925f456c2a1cd0f941241/BR%3A%20Discovery%20Turbo%20FHD</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLSgjoI9BRrcE4ll_ErY5lLH-g03FU4HiQ_xwDxYJg=s900-c-k-c0x00ffffff-no-rj</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLSgjoI9BRrcE4ll_ErY5lLH-g03FU4HiQ_xwDxYJg=s900-c-k-c0x00ffffff-no-rj</fanart>
-<info>O Discovery Channel é um canal de televisão por assinatura distribuído pela Discovery Inc. destinado a apresentação de documentários, séries e programas educativos sobre ciência, tecnologia, história, meio ambiente e geografia.</info>
+<info>O Discovery Turbo é uma rede pertencente a Warner Bros. Discovery com a programação dedicada a máquinas como carros, motos, barcos e aviões. Tem a tarefa de re-exibir os programas ligados a essas máquinas passados no Discovery Channel, sem intervalos comerciais.</info>
 </item>
   <item>
 <title>[B]Discovery World[/B]</title>
 <link>http://51.222.29.49:8089/btv0925f456c2a1cd0f941241/BR%3A%20Discovery%20World%20FHD</link>
-<thumbnail>https://yt3.ggpht.com/ytc/AKedOLSgjoI9BRrcE4ll_ErY5lLH-g03FU4HiQ_xwDxYJg=s900-c-k-c0x00ffffff-no-rj</thumbnail>
-<fanart>https://yt3.ggpht.com/ytc/AKedOLSgjoI9BRrcE4ll_ErY5lLH-g03FU4HiQ_xwDxYJg=s900-c-k-c0x00ffffff-no-rj</fanart>
-<info>O Discovery Channel é um canal de televisão por assinatura distribuído pela Discovery Inc. destinado a apresentação de documentários, séries e programas educativos sobre ciência, tecnologia, história, meio ambiente e geografia.</info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/900px-World_Discovery_HD_logo.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/900px-World_Discovery_HD_logo.png</fanart>
+<info>Discovery World é um canal de televisão por assinatura norte-americano. Desde 1991 sobre o nome de TLC o canal é distribuído pela Warner Bros.</info>
 </item>
    <item>
 <title>[B]Discovery Science[/B]</title>
 <link>http://51.222.29.49:8089/btv0925f456c2a1cd0f941241/BR%3A%20Discovery%20Science%20FHD</link>
-<thumbnail>https://yt3.ggpht.com/ytc/AKedOLSgjoI9BRrcE4ll_ErY5lLH-g03FU4HiQ_xwDxYJg=s900-c-k-c0x00ffffff-no-rj</thumbnail>
-<fanart>https://yt3.ggpht.com/ytc/AKedOLSgjoI9BRrcE4ll_ErY5lLH-g03FU4HiQ_xwDxYJg=s900-c-k-c0x00ffffff-no-rj</fanart>
-<info>O Discovery Channel é um canal de televisão por assinatura distribuído pela Discovery Inc. destinado a apresentação de documentários, séries e programas educativos sobre ciência, tecnologia, história, meio ambiente e geografia.</info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/900px-Science_Channel_logo.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/900px-Science_Channel_logo.png</fanart>
+<info>Discovery Science é um canal de televisão de TV por assinatura do grupo Warner Bros. Discovery que tem como tarefa reexibir os programas ligados a ciência passados no Discovery Channel, sem intervalos comerciais. Exibe documentários sobre astronomia, tecnologia, história e biologia. Alguns de seus programas mais famosos são "Grandes Mistérios do Universo com Morgan Freeman", "Como funciona o Universo", "MythBusters", "Como é Feito", "A Ciência do Impossível", entre muitos outros.</info>
 </item>
    <item>
 <title>[B]Discovery Theater[/B]</title>
 <link>http://51.222.29.49:8089/btv0925f456c2a1cd0f941241/BR%3A%20Discovery%20Theater%20FHD</link>
-<thumbnail>https://yt3.ggpht.com/ytc/AKedOLSgjoI9BRrcE4ll_ErY5lLH-g03FU4HiQ_xwDxYJg=s900-c-k-c0x00ffffff-no-rj</thumbnail>
-<fanart>https://yt3.ggpht.com/ytc/AKedOLSgjoI9BRrcE4ll_ErY5lLH-g03FU4HiQ_xwDxYJg=s900-c-k-c0x00ffffff-no-rj</fanart>
-<info>O Discovery Channel é um canal de televisão por assinatura distribuído pela Discovery Inc. destinado a apresentação de documentários, séries e programas educativos sobre ciência, tecnologia, história, meio ambiente e geografia.</info>
+<thumbnail>https://github.com/hugoow/yeloplays/blob/main/Logos/dis%20theater.png?raw=true</thumbnail>
+<fanart>https://github.com/hugoow/yeloplays/blob/main/Logos/dis%20theater.png?raw=true</fanart>
+<info>Discovery Theater é um canal de televisão por assinatura em alta definição norte-americano, pertencente a Warner Bros. Discovery Foi lançado a nível nacional nos Estados Unidos em 1º de junho de 2002 como Discovery HD Theater se tornando o canal precursor a ser inteiramente exibido em HD no país</info>
 </item>
     <item>
-<title>[B]Discovery iD[/B]</title>
+<title>[B]Discovery ID[/B]</title>
 <link>http://51.222.29.212:8089/btv0925f456c2a1cd0f941241/BR%3A%20ID%20FHD</link>
-<thumbnail>https://yt3.ggpht.com/ytc/AKedOLSgjoI9BRrcE4ll_ErY5lLH-g03FU4HiQ_xwDxYJg=s900-c-k-c0x00ffffff-no-rj</thumbnail>
-<fanart>https://yt3.ggpht.com/ytc/AKedOLSgjoI9BRrcE4ll_ErY5lLH-g03FU4HiQ_xwDxYJg=s900-c-k-c0x00ffffff-no-rj</fanart>
-<info>O Discovery Channel é um canal de televisão por assinatura distribuído pela Discovery Inc. destinado a apresentação de documentários, séries e programas educativos sobre ciência, tecnologia, história, meio ambiente e geografia.</info>
+<thumbnail>https://github.com/hugoow/yeloplays/blob/main/Logos/dis%20id.png?raw=true</thumbnail>
+<fanart>https://github.com/hugoow/yeloplays/blob/main/Logos/dis%20id.png?raw=true</fanart>
+<info>Investigation Discovery é uma rede americana de televisão paga de propriedade da Warner Bros. Discovery, dedicada a documentários sobre crimes reais.</info>
 </item>
  <item>
 <title>[B]Discovery H&H[/B]</title>
