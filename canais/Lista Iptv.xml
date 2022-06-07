@@ -13,7 +13,7 @@
 <info>Sony Channel é um canal de entretenimento geral de propriedade da Sony Pictures Entertainment. Transmitido na Alemanha, Rússia, Países Bálticos, Reino Unido, Irlanda e América Latina. O canal não possui uma sede principal, mas a sua divisão pertence principalmente à Sony Pictures Entertainment que é sediada na cidade de Culver City, na Califórnia. Na América Latina é distribuído pela Ole Distribution.</info>
 </item>
 <item>
-<title>[B]Universal Channel[/B]</title>
+ <title>[B][COLOR red]Universal Channel[/COLOR][B]</title>
 <link>http://50.7.34.155:2201/BR/Universal_TV_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLSd5bQchM7IrcMuJob0JAp_Y7hTIfCnYP4KZQRcdg=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLSd5bQchM7IrcMuJob0JAp_Y7hTIfCnYP4KZQRcdg=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
@@ -178,15 +178,15 @@
   <item>
 <title>[B]Discovery World[/B]</title>
 <link>http://51.222.29.49:8089/btv0925f456c2a1cd0f941241/BR%3A%20Discovery%20World%20FHD</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/900px-World_Discovery_HD_logo.png</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/900px-World_Discovery_HD_logo.png</fanart>
+<thumbnail>https://github.com/hugoow/yeloplays/blob/main/Logos/dis%20world.png?raw=true</thumbnail>
+<fanart>https://github.com/hugoow/yeloplays/blob/main/Logos/dis%20world.png?raw=true</fanart>
 <info>Discovery World é um canal de televisão por assinatura norte-americano. Desde 1991 sobre o nome de TLC o canal é distribuído pela Warner Bros.</info>
 </item>
    <item>
 <title>[B]Discovery Science[/B]</title>
 <link>http://51.222.29.49:8089/btv0925f456c2a1cd0f941241/BR%3A%20Discovery%20Science%20FHD</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/900px-Science_Channel_logo.png</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/900px-Science_Channel_logo.png</fanart>
+<thumbnail>https://github.com/hugoow/yeloplays/blob/main/Logos/dis%20sci.png?raw=true</thumbnail>
+<fanart>https://github.com/hugoow/yeloplays/blob/main/Logos/dis%20sci.png?raw=true</fanart>
 <info>Discovery Science é um canal de televisão de TV por assinatura do grupo Warner Bros. Discovery que tem como tarefa reexibir os programas ligados a ciência passados no Discovery Channel, sem intervalos comerciais. Exibe documentários sobre astronomia, tecnologia, história e biologia. Alguns de seus programas mais famosos são "Grandes Mistérios do Universo com Morgan Freeman", "Como funciona o Universo", "MythBusters", "Como é Feito", "A Ciência do Impossível", entre muitos outros.</info>
 </item>
    <item>
@@ -204,7 +204,7 @@
 <info>Investigation Discovery é uma rede americana de televisão paga de propriedade da Warner Bros. Discovery, dedicada a documentários sobre crimes reais.</info>
 </item>
  <item>
-<title>[B]Discovery H&H[/B]</title>
+<title>[B][COLOR red]Discovery H&H[/COLOR][/B]</title>
 <link>http://vipeiptv.com:8080/Amarildo90/Amarildo90/980354</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLReVlotvTTciAFdIDfp9wcl0OYzgYjnm5G07BE6sw=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLReVlotvTTciAFdIDfp9wcl0OYzgYjnm5G07BE6sw=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
@@ -262,7 +262,7 @@
 </item>
    <item>
 <title>[B]ESPN 2[/B]</title>
-<link>http://50.7.34.155:2201/BR/ESPN2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null</link>
+<link>http://51.222.29.238:8089/btv0925f456c2a1cd0f941241/BR%3A%20ESPN%202%20FHD</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLQnTp0nF29DOb9SPmL78U1bErKEdqNcskcjW-3wNuQ=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLQnTp0nF29DOb9SPmL78U1bErKEdqNcskcjW-3wNuQ=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>SPORT TV é a principal estação televisiva portuguesa de conteúdos desportivos, e foi o primeiro canal premium produzido no país, em setembro de 1998. O conteúdo de programação dos 6 canais, consiste na transmissão de uma vasta cobertura das competições desportivas a nível mundial.</info>
@@ -303,7 +303,7 @@
 <info>Categoria Variedades</info>
 </item>
 <item>
-<title>[B]Gnt[/B]</title>
+<title>[B][COLOR red]Gnt[/COLOR][/B]</title>
 <link>http://50.7.34.155:2200/BR/GNT_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull</link>
 <thumbnail>https://yt3.ggpht.com/cq-1NQPGy8LbhlNtU2gtan7PZX3ki7UN04MmJtw4vtQYuQiq0kbT7qGFzecCIaDS3IlBJr8L=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/cq-1NQPGy8LbhlNtU2gtan7PZX3ki7UN04MmJtw4vtQYuQiq0kbT7qGFzecCIaDS3IlBJr8L=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
@@ -324,8 +324,8 @@
 <info>Cartoon Network é um canal norte-americano de televisão por assinatura de rede de propriedade da Warner Bros. Global Kids & Young Adults (divisão formada após a reestruturação do conglomerado WarnerMedia), que vai ao ar principalmente com programação animada. O canal foi lançado em 1 de outubro de 1992, depois que Turner comprou o estúdio de animação com desenhos de Hanna-Barbera em 1991.</info>
 </item>
 <item>
-<title>[B]Boomerang[/B]</title>
-<link>http://45.232.196.7:5000/live/CARTOONITO/720p.m3u8</link>
+<title>[B]Cartoonito(Boomerang)[/B]</title>
+<link>http://ldxpp.com:8088/btv0925f456c2a1cd0f941241/BR%3A%20Boomerang%20FHD</link>
 <thumbnail>https://yt3.ggpht.com/HB73UhOxhgiBeKmDZKPcE2AL9g1Yp-haVhotufg76JsAA-0LmAjCzsedZcr0kpCHTcsWvyFk=s900-c-k-c0x00ffffff-no-rj</thumbnail>
 <fanart>https://yt3.ggpht.com/HB73UhOxhgiBeKmDZKPcE2AL9g1Yp-haVhotufg76JsAA-0LmAjCzsedZcr0kpCHTcsWvyFk=s900-c-k-c0x00ffffff-no-rj</fanart>
 <info>O Boomerang foi lançado em 27 de maio de 2000, [1] indo ao ar entre 06h00 e 00h00, na Sky Digital e em alguns sistemas a cabo. Na época, o Cartoon Network tinha uma agenda apertada e, portanto, o canal foi criado pela Turner Broadcasting para transmitir desenhos clássicos da biblioteca de programas de arquivo de Hanna-Barbera, MGM e Warner Bros, além de liberar sua rede irmã de muitos clássicos da programação.</info>
