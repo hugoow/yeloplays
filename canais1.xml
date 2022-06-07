@@ -7,7 +7,7 @@
 </item>
 <item>
 <title>[B]Sony Channel[/B]</title>
-<link>144.217.69.58:8089/btv0925f456c2a1cd0f941241/BR%3A%20Sony%20FHD</link>
+<link>http://144.217.69.58:8089/btv0925f456c2a1cd0f941241/BR%3A%20Sony%20FHD</link>
 <thumbnail>https://yt3.ggpht.com/pcZ2cfu_IQ_-XtlYYTz-cONaXc_82mxiAIeX_DEZGx0g2TQbSBlHwZ8iIx5Kli1KZOf6gOlQ6Q=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/pcZ2cfu_IQ_-XtlYYTz-cONaXc_82mxiAIeX_DEZGx0g2TQbSBlHwZ8iIx5Kli1KZOf6gOlQ6Q=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>Sony Channel é um canal de entretenimento geral de propriedade da Sony Pictures Entertainment. Transmitido na Alemanha, Rússia, Países Bálticos, Reino Unido, Irlanda e América Latina. O canal não possui uma sede principal, mas a sua divisão pertence principalmente à Sony Pictures Entertainment que é sediada na cidade de Culver City, na Califórnia. Na América Latina é distribuído pela Ole Distribution.</info>
@@ -254,7 +254,7 @@
 </item>
 <item>
 <title>[B]Premiere Clubes[/B]</title>
-<link>http://50.7.34.155:2200/BR/Premiere_Clubes_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull</link>
+<link>http://144.217.69.58:8089/btv0925f456c2a1cd0f941241/BR%3A%20Premieres%20Clubes%20FHD</link>
 <thumbnail>https://yt3.ggpht.com/Ucp54jMPmb5jS30E6cuiMbaJhFFQ4u9puoTjlOAj76ztE8JTX-JVjgkkHE4ZaUa2ING0QhLKbw=s900-c-k-c0x00ffffff-no-rj</thumbnail>
 <fanart>https://yt3.ggpht.com/Ucp54jMPmb5jS30E6cuiMbaJhFFQ4u9puoTjlOAj76ztE8JTX-JVjgkkHE4ZaUa2ING0QhLKbw=s900-c-k-c0x00ffffff-no-rj</fanart>
 <info>O Premiere é um brasileiro canal de televisão em pay-per-view transmissões do futebol principal campeonatos estaduais no Brasil, e do Campeonato Brasileiro Série A e Série B . Fazendo parte da Canais Globo , está presente EM TVs a Cabo, e em algumas operadoras fora do país, como MEO e NOS . De 1997 a 2006 passou a se chamar Premiere Esportes , passando para o Premiere Futebol Clube e depois para o PFC , mas em 2011 mudou novamente, desta vez para o Premiere FC, que mantém o mesmo nome hoje.</info>
@@ -268,7 +268,7 @@
 </item>
   <item>
 <title>[B]ESPN[/B]</title>
-<link>51.222.29.238:8089/btv0925f456c2a1cd0f941241/BR%3A%20ESPN%20Brasil%20FHD</link>
+<link>http://51.222.29.238:8089/btv0925f456c2a1cd0f941241/BR%3A%20ESPN%20Brasil%20FHD</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLQnTp0nF29DOb9SPmL78U1bErKEdqNcskcjW-3wNuQ=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLQnTp0nF29DOb9SPmL78U1bErKEdqNcskcjW-3wNuQ=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>SPORT TV é a principal estação televisiva portuguesa de conteúdos desportivos, e foi o primeiro canal premium produzido no país, em setembro de 1998. O conteúdo de programação dos 6 canais, consiste na transmissão de uma vasta cobertura das competições desportivas a nível mundial.</info>
@@ -282,8 +282,7 @@
 </item>
   <item>
 <title>[B]ESPN BR[/B]</title>
-<link>http://45.161.252.33/ESPN_BR/playlist.m3u8$nome= 1</link>
-<link>http://50.7.34.155:2200/BR/ESPN_Brasil_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null$nome=2</link>
+<link>http://212.102.60.39:2200/BR/ESPN_Brasil_HD-br/index.m3u8?token=</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLQ-uDjWFLVnZiGxQfWRsLH6aMDrZNbnnxTYtDJ9EpE=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLQ-uDjWFLVnZiGxQfWRsLH6aMDrZNbnnxTYtDJ9EpE=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>SPORT TV é a principal estação televisiva portuguesa de conteúdos desportivos, e foi o primeiro canal premium produzido no país, em setembro de 1998. O conteúdo de programação dos 6 canais, consiste na transmissão de uma vasta cobertura das competições desportivas a nível mundial.</info>
@@ -297,14 +296,14 @@
 </item>
 <item>
 <title>[B]SportTV 2[/B]</title>
-<link>http://50.7.34.155:2200/BR/Sportv_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull</link>
+<link>http://51.222.30.109:8089/btv0925f456c2a1cd0f941241/BR%3A%20Sport%20TV2%20FHD</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLQsYyJdEBTqxMQb5GN3r_mic055s9sIjWBMAbCh=s900-c-k-c0x00ffffff-no-rj</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLQsYyJdEBTqxMQb5GN3r_mic055s9sIjWBMAbCh=s900-c-k-c0x00ffffff-no-rj</fanart>
 <info>SPORT TV é a principal estação televisiva portuguesa de conteúdos desportivos, e foi o primeiro canal premium produzido no país, em setembro de 1998. O conteúdo de programação dos 6 canais, consiste na transmissão de uma vasta cobertura das competições desportivas a nível mundial.</info>
 </item>
 <item>
 <title>[B]SportTV 3[/B]</title>
-<link>http://50.7.34.155:2200/BR/Sportv_3_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull</link>
+<link>http://51.222.30.109:8089/btv0925f456c2a1cd0f941241/BR%3A%20Sport%20TV3%20FHD</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLQsYyJdEBTqxMQb5GN3r_mic055s9sIjWBMAbCh=s900-c-k-c0x00ffffff-no-rj</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLQsYyJdEBTqxMQb5GN3r_mic055s9sIjWBMAbCh=s900-c-k-c0x00ffffff-no-rj</fanart>
 <info>SPORT TV é a principal estação televisiva portuguesa de conteúdos desportivos, e foi o primeiro canal premium produzido no país, em setembro de 1998. O conteúdo de programação dos 6 canais, consiste na transmissão de uma vasta cobertura das competições desportivas a nível mundial.</info>
@@ -339,7 +338,7 @@
 </item>
 <item>
 <title>[B]Boomerang[/B]</title>
-<link>http://45.232.196.7:5000/live/CARTOONITO/720p.m3u8</link>
+<link>http://ldxpp.com:8088/btv0925f456c2a1cd0f941241/BR%3A%20Boomerang%20FHD</link>
 <thumbnail>https://yt3.ggpht.com/HB73UhOxhgiBeKmDZKPcE2AL9g1Yp-haVhotufg76JsAA-0LmAjCzsedZcr0kpCHTcsWvyFk=s900-c-k-c0x00ffffff-no-rj</thumbnail>
 <fanart>https://yt3.ggpht.com/HB73UhOxhgiBeKmDZKPcE2AL9g1Yp-haVhotufg76JsAA-0LmAjCzsedZcr0kpCHTcsWvyFk=s900-c-k-c0x00ffffff-no-rj</fanart>
 <info>O Boomerang foi lançado em 27 de maio de 2000, [1] indo ao ar entre 06h00 e 00h00, na Sky Digital e em alguns sistemas a cabo. Na época, o Cartoon Network tinha uma agenda apertada e, portanto, o canal foi criado pela Turner Broadcasting para transmitir desenhos clássicos da biblioteca de programas de arquivo de Hanna-Barbera, MGM e Warner Bros, além de liberar sua rede irmã de muitos clássicos da programação.</info>
@@ -351,4 +350,10 @@
 <fanart>https://yt3.ggpht.com/ytc/AKedOLTK5EhLHo8JaxNu5a1Ltc4Hwloxt862Z9_rVquhww=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>Discovery Kids é um canal americano de televisão a cabo de propriedade da Discovery, Inc. e da Hasbro . A rede exibe uma mistura de séries voltadas para a família, com horas diurnas dedicadas principalmente à programação voltada para jovens, e seu horário nobre apresenta programas de não ficção da biblioteca do Discovery Channel, incluindo programas de ciência e natureza.</info>
 </item>
-<item>
+ <item>
+<title>[B]Nickelodeon[/B]</title>
+<link>http://cdn.connectbr.com.br/Nickelodeon/index.m3u8</link>
+<thumbnail>https://yt3.ggpht.com/ytc/AKedOLRljF0RTbdfWHY0erTCpXIvxNQeFqPlZpvnDHrZXPI=s900-c-k-c0x00ffffff-no-rj</thumbnail>
+<fanart>https://yt3.ggpht.com/ytc/AKedOLRljF0RTbdfWHY0erTCpXIvxNQeFqPlZpvnDHrZXPI=s900-c-k-c0x00ffffff-no-rj</fanart>
+<info>Nickelodeon (geralmente abreviada como "Nick") é uma empresa de entretenimento juvenil. Costituiu um negócio global e diversificado, colocando crianças e adolescentes em primeiro lugar em tudo o que faz. inclui programas de televisão de produção em seus estúdios nos Estados Unidos e ao redor do mundo, além de linha de produtos de consumo, parques temáticos, livros e uma produção diversificada de filmes com a Nickelodeon Movies.</info>
+</item>
