@@ -35,7 +35,7 @@
 </item>
  <item>
 <title>[B]Cinemax[/B]</title>
-<link>http://45.232.196.7:5000/live/CINEMAX/720p.m3u8</link>
+<link>51.222.29.49:8089/btv0925f456c2a1cd0f941241/BR%3A%20Cinemax%20FHD</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLThtJEvCDHDCpjRSpjDMFA_qza2g7cOysX2qv2dEA=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLThtJEvCDHDCpjRSpjDMFA_qza2g7cOysX2qv2dEA=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>A partir do dia 1º de junho de 2010, devido a mudanças feitas na rede de canais da HBO Latin America Group, o canal Cinemax e o Cinemax2 muda para uma nova marca Max HD e Max respectivamente, cuja programação será disponível também em alta definição</info>
@@ -240,7 +240,8 @@
 </item>
 <item>
 <title>[B]History 2[/B]</title>
-<link>https://cdn.connectbr.com.br/h2/index.m3u8</link>
+<link>https://cdn.connectbr.com.br/h2/index.m3u8$nome= [B]1[/B]</link>
+<link>https://live.xvideosporn.me/p2p/h2/chunks.m3u8?nimblesessionid=&wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMjIgMTA6MTE6MjggUE0maGFzaF92YWx1ZT1hU2lVZ3BwY2lzNTBjOUtmajRzVUx3PT0mdmFsaWRtaW51dGVzPTkw$nome= [B]1[/B]</link>
 <thumbnail>https://raw.githubusercontent.com/hugoow/yeloplays/main/Logos/history%202.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/hugoow/yeloplays/main/Logos/history%202.jpg</fanart>
 <info>H2 ou History 2 é um canal de televisão por assinatura que exibe documentários, pertencente a A&E Networks, canal irmão do History.</info>
