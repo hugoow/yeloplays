@@ -9,7 +9,7 @@
 <channel>
 <name>[B][COLOR white]Categoria: [/COLOR][COLOR gold]Categorias[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
-<externallink>https://github.com/hugoow/yeloplays/raw/main/filmes/Filmes%20-%20Categorias.xml</externallink>
+<externallink>https://raw.githubusercontent.com/hugoow/yeloplays/main/filmes/Filmes%20-%20Categorias.xml</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 <info>Categorias Ex. Ação,Animação,Etc..</info>
 </channel>
