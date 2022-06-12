@@ -249,8 +249,8 @@
 </item>
  <item>
 <title>[B]Discovery H&H[/B]</title>
-<link>http://45.232.196.7:5000/live/DISCHH/720p.m3u8$nome=[b]1<[/b]/link>
-<link>http://ldxpp.com:8088/btv6d6605d49e664d13232b88/BR%3A%20Discovery%20Home%20Health%20FHD$nome=[b]2[/b]
+<link>http://45.232.196.7:5000/live/DISCHH/720p.m3u8$nome=[b]1[/b]/link></link>
+<link>http://ldxpp.com:8088/btv6d6605d49e664d13232b88/BR%3A%20Discovery%20Home%20Health%20FHD$nome=[b]2[/b]</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLReVlotvTTciAFdIDfp9wcl0OYzgYjnm5G07BE6sw=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLReVlotvTTciAFdIDfp9wcl0OYzgYjnm5G07BE6sw=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>O Discovery Home & Health é um canal de TV por assinatura dedicado à beleza, bem estar e a vida em família. O Discovery Home & Health apresenta uma programação diversificada, englobando temas como beleza, moda, saúde, programas cientificos entre outros. Atualmente, os programas exibidos pelo canal são: Um Bebê Por Minuto, Design Divino, Supernanny, 10 Anos Mais Jovem, Esquadrão da Moda, Enigmas da Medicina.</info>
@@ -263,7 +263,7 @@
 <info>HGTV é um rede de televisão por assinatura sediado nos Estados Unidos, que é de propriedade da Warner Bros. Discovery. A rede basicamente transmite programas como realitys relacionados à melhoria de casas e imóveis.</info>
 </item>
 <item>
-<title>[B][COLOR red]Nat Geo[/COLOR][/B]</title>
+<title>[B]Nat Geo[/B]</title>
 <link>http://ldxpp.com:8088/btv6d6605d49e664d13232b88/BR%3A%20NatGeo%20FHD</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLTdh4vj3oGXpCXT3lMqha9_Qq4-JvMBlpztnHvi_mI=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLTdh4vj3oGXpCXT3lMqha9_Qq4-JvMBlpztnHvi_mI=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
@@ -272,7 +272,7 @@
  <item>
 <title>[B]History Channel[/B]</title>
 <link>http://187.85.237.32:8825/ipvt_007$nome=[B]1[/B]</link>
-<link>http://ldxpp.com:8088/btv6d6605d49e664d13232b88/BR%3A%20History%20FHD$nome=[B]1[/B]</link>
+<link>http://ldxpp.com:8088/btv6d6605d49e664d13232b88/BR%3A%20History%20FHD$nome=[B]2[/B]</link>
 <thumbnail>https://raw.githubusercontent.com/hugoow/yeloplays/main/Logos/history%201.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/hugoow/yeloplays/main/Logos/history%201.jpg</fanart>
 <info>O History, é uma rede de televisão por assinatura americano cuja programação é focada essencialmente em conteúdos de teor histórico e científico. Apesar disso, a rede também aborda temas atuais de relevância. </info>
