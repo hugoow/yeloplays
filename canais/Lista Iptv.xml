@@ -28,7 +28,7 @@
 </item>
 <item>
  <title>[B]Universal Channel[/B]</title>
-<link>http://31.172.87.56:2200/BR/Universal_TV_HD-br/tracks-v1a1/mono.m3u8?token=RED_dxPYoJ1KjtIgacQFVE0U9Q%3D%3D%2C1641804427.7609871579_dxPYoJ1KjtIgacQFVE0U9Q%3D%3D%2C1641804427.7609871579</link>
+<link>http://212.102.60.39:2200/BR/Universal_TV_HD-br/index.m3u8?token=RED_Zny3GRaK1fNBw1STxTtSAw==,1655715023.3265758464</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLSd5bQchM7IrcMuJob0JAp_Y7hTIfCnYP4KZQRcdg=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLSd5bQchM7IrcMuJob0JAp_Y7hTIfCnYP4KZQRcdg=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>Universal TV é um canal de televisão por assinatura internacional, disponível em diversos países do mundo, incluindo o Brasil. O canal é especializado em séries de televisão de diversos gêneros, dentre os quais, principalmente, thrillers, dramas, horror crime e erótico. </info>
@@ -186,6 +186,7 @@
 <link>http://187.85.237.8:8825/ipvt_005$nome=[B]2[/B]</link>
 <link>http://31.172.87.54:2200/BR/axnhd-br/tracks-v1a1/mono.m3u8?token=RED_dxPYoJ1KjtIgacQFVE0U9Q==,1641804427.7609871579_dxPYoJ1KjtIgacQFVE0U9Q==,1641804427.7609871579$nome=[B]3[/B]</link>
 <link>http://51.222.30.157:8089/btv1f80737016ee958dd56504/BR%3A%20AXN%20FHD$nome=[B]4[/B]</link>
+ <link>http://cdn2.connectbr.com.br/axn/index.m3u8$nome=[B]5[/B]<link>
 </link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLRLX1lCoFmUEDshITJeDUmnrcLWFktw2JyvGg7GXA=s900-c-k-c0x00ffffff-no-rj</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLRLX1lCoFmUEDshITJeDUmnrcLWFktw2JyvGg7GXA=s900-c-k-c0x00ffffff-no-rj</fanart>
@@ -209,7 +210,7 @@
 <title>[B]Discovery Channel[/B]</title>
 <link>http://45.232.196.7:5000/live/DISCOVERY/720p.m3u8$nome=[B]1[/B]</link>
 <link>http://ldxpp.com:8088/btv1f80737016ee958dd56504/BR%3A%20Discovery%20Channel%20FHD$nome=[B]2[/B]</link>
-<link>http://212.102.60.39:2200/BR/Discovery_Channel_HD-br/index.m3u8?token=RED_Xn1lBGRDpCT__wrKD55X7w==,1655332746.3265758464$nome=[B]3[/B]</link>
+<link>http://212.102.60.39:2200/BR/Discovery_Channel_HD-br/index.m3u8?token=RED_Zny3GRaK1fNBw1STxTtSAw==,1655715023.3265758464$nome=[B]3[/B]</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLQ3_3PhvKkvT-qCfjeXRWfbJ_oCqjGBJ4MC2yby-A=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLQ3_3PhvKkvT-qCfjeXRWfbJ_oCqjGBJ4MC2yby-A=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>O Discovery Channel é um canal de televisão por assinatura distribuído pela Discovery Inc. destinado a apresentação de documentários, séries e programas educativos sobre ciência, tecnologia, história, meio ambiente e geografia.</info>
@@ -281,7 +282,8 @@
 </item>
 <item>
 <title>[B]History 2[/B]</title>
-<link>https://cdn.connectbr.com.br/h2/index.m3u8</link>
+<link>https://cdn.connectbr.com.br/h2/index.m3u8$nome=[B]1[/B]</link>
+<link>http://ldxpp.com:8088/btv1f80737016ee958dd56504/BR%3A%20History%20FHD$nome=[B]2[/B]</link>
 <thumbnail>https://raw.githubusercontent.com/hugoow/yeloplays/main/Logos/history%202.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/hugoow/yeloplays/main/Logos/history%202.jpg</fanart>
 <info>H2 ou History 2 é um canal de televisão por assinatura que exibe documentários, pertencente a A&E Networks, canal irmão do History.</info>
@@ -309,7 +311,7 @@
 </item>
   <item>
 <title>[B]ESPN[/B]</title>
-<link>http://ldxpp.com:8088/btv1f80737016ee958dd56504/BR%3A%20ESPN%20Brasil%20FHD</link>
+<link>http://ldxpp.com:8088/btv1f80737016ee958dd56504/BR%3A%20ESPN%20FHD</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLQnTp0nF29DOb9SPmL78U1bErKEdqNcskcjW-3wNuQ=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLQnTp0nF29DOb9SPmL78U1bErKEdqNcskcjW-3wNuQ=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>SPORT TV é a principal estação televisiva portuguesa de conteúdos desportivos, e foi o primeiro canal premium produzido no país, em setembro de 1998. O conteúdo de programação dos 6 canais, consiste na transmissão de uma vasta cobertura das competições desportivas a nível mundial.</info>
@@ -323,7 +325,7 @@
 </item>
   <item>
 <title>[B]ESPN BR[/B]</title>
-<link>http://212.102.60.39:2200/BR/ESPN_Brasil_HD-br/index.m3u8?token=</link>
+<link>http://ldxpp.com:8088/btv1f80737016ee958dd56504/BR%3A%20ESPN%20Brasil%20FHD</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLQ-uDjWFLVnZiGxQfWRsLH6aMDrZNbnnxTYtDJ9EpE=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLQ-uDjWFLVnZiGxQfWRsLH6aMDrZNbnnxTYtDJ9EpE=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>SPORT TV é a principal estação televisiva portuguesa de conteúdos desportivos, e foi o primeiro canal premium produzido no país, em setembro de 1998. O conteúdo de programação dos 6 canais, consiste na transmissão de uma vasta cobertura das competições desportivas a nível mundial.</info>
@@ -379,7 +381,7 @@
 </item>
 <item>
 <title>[B]Cartoonito(Boomerang)[/B]</title>
-<link>http://ldxpp.com:8088/btv0925f456c2a1cd0f941241/BR%3A%20Boomerang%20FHD</link>
+<link>http://ldxpp.com:8088/btv1f80737016ee958dd56504/BR%3A%20Boomerang%20FHD</link>
 <thumbnail>https://yt3.ggpht.com/HB73UhOxhgiBeKmDZKPcE2AL9g1Yp-haVhotufg76JsAA-0LmAjCzsedZcr0kpCHTcsWvyFk=s900-c-k-c0x00ffffff-no-rj</thumbnail>
 <fanart>https://yt3.ggpht.com/HB73UhOxhgiBeKmDZKPcE2AL9g1Yp-haVhotufg76JsAA-0LmAjCzsedZcr0kpCHTcsWvyFk=s900-c-k-c0x00ffffff-no-rj</fanart>
 <info>O Boomerang foi lançado em 27 de maio de 2000, [1] indo ao ar entre 06h00 e 00h00, na Sky Digital e em alguns sistemas a cabo. Na época, o Cartoon Network tinha uma agenda apertada e, portanto, o canal foi criado pela Turner Broadcasting para transmitir desenhos clássicos da biblioteca de programas de arquivo de Hanna-Barbera, MGM e Warner Bros, além de liberar sua rede irmã de muitos clássicos da programação.</info>
@@ -425,4 +427,18 @@
 <thumbnail>https://yt3.ggpht.com/UcTclRY5rATb4jiyXMLfwVsTDCLSgdETDM6Ebgsj3NKULRMlntJ7mnX43f8HixdSJhmqHSRHfg=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/UcTclRY5rATb4jiyXMLfwVsTDCLSgdETDM6Ebgsj3NKULRMlntJ7mnX43f8HixdSJhmqHSRHfg=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>Disney Channel é um canal de televisão norte-americano especializado em programação infanto-juvenil, através das suas séries originais e filme</info>
+</item>
+<item>
+<title>ZooMoo</title>
+<link>http://origin-02.nxplay.com.br/ZOOMOO_HD_NX_01_/video.m3u8</link>
+<thumbnail>https://yt3.ggpht.com/4-j3SNvBrBTSvxOWjUKy5__yR7N_Cz9EZP-UNOIqclKAT-ZKxxCI0Bezbb-8RhOLGG5Q7hmg=s900-c-k-c0x00ffffff-no-rj</thumbnail>
+<fanart>https://yt3.ggpht.com/4-j3SNvBrBTSvxOWjUKy5__yR7N_Cz9EZP-UNOIqclKAT-ZKxxCI0Bezbb-8RhOLGG5Q7hmg=s900-c-k-c0x00ffffff-no-rj</fanart>
+<info>O ZooMoo Kids é um universo infantil que traz a junção entre o melhor da programação infantil e o ato de aprender. Com a missão de levar ainda mais entretenimento a todos os brasileiros, nosso canal de TV apresenta uma programação de qualidade e 100% segura voltada a crianças de 0 a 8 que ainda estão cultivando o desenvolvimento da infância através de grandes valores, como respeito, empatia e amizade</info>
+</item>
+<item>
+<title>Tooncast</title>
+<link>http://ldxpp.com:8088/btv1f80737016ee958dd56504/BR%3A%20Tooncast%20HD</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png</fanart>
+<info>Tooncast, canal por assinatura com transmissão 24 horas da Turner Broadcasting System, Inc. (TBS, Inc.), apresenta 100% de programação animada para os fanáticos por desenhos animados de todas as idades. Tooncast traz para os fãs o melhor das produções originais do Cartoon Network como Johnny Bravo, As Meninas Superpoderosas, A Vaga e o Frango, Coragem, o Cão Covarde, assim como favoritos de todos os tempos como Pernalonga e Patolino e Taz-Mania, da Warner Bros.; Os Flintstones e Os Jetsons, da Hanna-Barbera; e Droopy e Dripple, dos estúdios MGM.</info>
 </item>
