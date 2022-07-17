@@ -1,4 +1,5 @@
 <channels>
+  
 <channel>
 <name>[B][COLOR white]Temporada 1[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
@@ -6,6 +7,7 @@
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 <info>A pequena cidade de Hawkins é cenário de estranhos acontecimentos. Após o desaparecimento de um garoto, surge uma menina com poderes sobrenaturais.</info>
 </channel>
+  
 <channel>
 <name>[B][COLOR white]Temporada 2[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
@@ -13,6 +15,7 @@
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 <info>Quase um ano após o estranho desaparecimento de Will, a vida em Hawkins está longe de voltar ao normal.</info>
 </channel>
+  
 <channel>
 <name>[B][COLOR white]Temporada 3[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
@@ -20,11 +23,13 @@
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 <info>Romance no ar. Um shopping novinho em folha. Ratazanas enlouquecidas correndo para o perigo. É o verão de 1985 em Hawkins. E um verão pode mudar tudo.</info>
 </channel>
-  <channel>
-<name>[B][COLOR white]Temporada 4/COLOR][/B]</name>
+  
+ <channel>
+<name>[B][COLOR white]Temporada 4[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
 <externallink>https://raw.githubusercontent.com/hugoow/yeloplays/main/series/pastas/Stranger%20Things/temp 4.xml</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 <info>As trevas retornam a Hawkins a tempo das férias, trazendo terror, lembranças perturbadoras e uma nova ameaça terrível.</info>
 </channel>
+  
 </channels>
