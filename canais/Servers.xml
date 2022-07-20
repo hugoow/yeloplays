@@ -20,21 +20,21 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]Pluto TV[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Outros/Canais 24Hrs[/COLOR][/B]</name>
 <thumbnail>https://i.pinimg.com/originals/10/1e/11/101e1107e91db918a8e163622b2c95a0.gif</thumbnail>
-<externallink>https://raw.githubusercontent.com/hugoow/yeloplays/main/canais/Lista%20Pluto.xml</externallink>
+<externallink>https://raw.githubusercontent.com/hugoow/yeloplays/main/canais/Lista%20Outros.xml</externallink>
 <fanart>https://i.imgur.com/pk8hVv5.jpg</fanart>
-<info>Canais Pluto</info>
+<info>Outros Canais</info>
 </channel>
 </channels>
 
 <channels>
 <channel>
-<name>[B][COLOR gold]●[/COLOR] [COLOR white]Outros/Canais 24Hrs[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Pluto TV[/COLOR][/B]</name>
 <thumbnail>https://i.pinimg.com/originals/10/1e/11/101e1107e91db918a8e163622b2c95a0.gif</thumbnail>
-<externallink>https://raw.githubusercontent.com/hugoow/yeloplays/main/canais/Lista%20Outros.xml</externallink>
+<externallink>https://raw.githubusercontent.com/hugoow/yeloplays/main/canais/Lista%20Pluto.xml</externallink>
 <fanart>https://i.imgur.com/pk8hVv5.jpg</fanart>
-<info>Outros Canais</info>
+<info>Canais Pluto</info>
 </channel>
 </channels>
 
