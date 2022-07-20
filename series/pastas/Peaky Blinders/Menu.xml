@@ -31,5 +31,21 @@
     <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
     <info></info>
     </channel>
+
+    <channel>
+    <name>[B][COLOR white]Temporada 5[/COLOR][/B]</name>
+    <thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
+    <externallink>https://raw.githubusercontent.com/hugoow/yeloplays/main/series/pastas/Peaky%20Blinders/temp%205.xml</externallink>
+    <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+    <info></info>
+    </channel>
+
+    <channel>
+    <name>[B][COLOR white]Temporada 6[/COLOR][/B]</name>
+    <thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
+    <externallink>https://raw.githubusercontent.com/hugoow/yeloplays/main/series/pastas/Peaky%20Blinders/temp%206.xml</externallink>
+    <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+    <info></info>
+    </channel>
       
     </channels>
