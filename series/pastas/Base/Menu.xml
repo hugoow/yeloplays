@@ -1,0 +1,35 @@
+<channels>
+  
+    <channel>
+    <name>[B][COLOR white]Temporada 1[/COLOR][/B]</name>
+    <thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
+    <externallink>https://raw.githubusercontent.com/hugoow/yeloplays/main/series/pastas/Stranger%20Things/temp%201.xml</externallink>
+    <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+    <info></info>
+    </channel>
+      
+    <channel>
+    <name>[B][COLOR white]Temporada 2[/COLOR][/B]</name>
+    <thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
+    <externallink>https://raw.githubusercontent.com/hugoow/yeloplays/main/series/pastas/Stranger%20Things/temp%202.xml</externallink>
+    <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+    <info></info>
+    </channel>
+      
+    <channel>
+    <name>[B][COLOR white]Temporada 3[/COLOR][/B]</name>
+    <thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
+    <externallink>https://raw.githubusercontent.com/hugoow/yeloplays/main/series/pastas/Stranger%20Things/temp%203.xml</externallink>
+    <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+    <info></info>
+    </channel>
+      
+     <channel>
+    <name>[B][COLOR white]Temporada 4[/COLOR][/B]</name>
+    <thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
+    <externallink>https://raw.githubusercontent.com/hugoow/yeloplays/main/series/pastas/Stranger%20Things/temp%204.xml</externallink>
+    <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+    <info></info>
+    </channel>
+      
+    </channels>
