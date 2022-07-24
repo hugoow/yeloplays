@@ -1,0 +1,49 @@
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]SERVER 1[/COLOR] [COLOR yellow]HD[/COLOR][/B]</name>
+<thumbnail>https://i.pinimg.com/originals/10/1e/11/101e1107e91db918a8e163622b2c95a0.gif</thumbnail>
+<externallink>https://github.com/hugoow/yeloplays/raw/main/canais/Lista%20Iptv.xml</externallink>
+<fanart>https://i.imgur.com/pk8hVv5.jpg</fanart>
+<info>Server 1</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]SERVER 2[/COLOR] [COLOR yellow]4K[/COLOR][/B]</name>
+<thumbnail>https://i.pinimg.com/originals/10/1e/11/101e1107e91db918a8e163622b2c95a0.gif</thumbnail>
+<externallink>https://raw.githubusercontent.com/hugoow/yeloplays/main/canais/Lista%20Iptv4K.xml</externallink>
+<fanart>https://i.imgur.com/pk8hVv5.jpg</fanart>
+<info>Server 2</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Outros/Canais 24Hrs[/COLOR][/B]</name>
+<thumbnail>https://i.pinimg.com/originals/10/1e/11/101e1107e91db918a8e163622b2c95a0.gif</thumbnail>
+<externallink>https://raw.githubusercontent.com/hugoow/yeloplays/main/canais/Lista%20Outros.xml</externallink>
+<fanart>https://i.imgur.com/pk8hVv5.jpg</fanart>
+<info>Outros Canais</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Pluto TV[/COLOR][/B]</name>
+<thumbnail>https://i.pinimg.com/originals/10/1e/11/101e1107e91db918a8e163622b2c95a0.gif</thumbnail>
+<externallink>https://raw.githubusercontent.com/hugoow/yeloplays/main/canais/Lista%20Pluto.xml</externallink>
+<fanart>https://i.imgur.com/pk8hVv5.jpg</fanart>
+<info>Canais Pluto</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B][COLOR gold]●[/COLOR] [COLOR white]SERVER 3[/COLOR] [COLOR yellow]SD[/COLOR][/B]</name>
+<thumbnail>https://i.pinimg.com/originals/10/1e/11/101e1107e91db918a8e163622b2c95a0.gif</thumbnail>
+<externallink>https://raw.githubusercontent.com/hugoow/yeloplays/main/canais/Lista%20IptvSD.xml</externallink>
+<fanart>https://i.imgur.com/pk8hVv5.jpg</fanart>
+<info>Server 3</info>
+</channel>
+</channels>
