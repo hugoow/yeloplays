@@ -48,8 +48,8 @@
 <info>FX é um canal americano de televisão por assinatura de propriedade da FX Networks, LLC, uma subsidiária da unidade Disney General Entertainment da The Walt Disney Company. É baseado no lote Fox Studios em Century City, Califórnia. O FX foi originalmente lançado em 1 de junho de 1994.</info>
 </item>
 <item>
-<title>[B][COLOR red]Tnt Series[/COLOR][/B]</title>
-<link>http://ldxpp.com:8088/btv0cd2b59755137209be94cb/BR%3A%20TNT%20Series%20FHD</link>
+<title>[B]Tnt Series[/B]</title>
+<link>http://170.82.200.38:8080/tnt_series/tracks-v1a1/mono.m3u8</link>
 <thumbnail>https://yt3.ggpht.com/2y_jRiCBKtXc4OdCT0vA2Hkl19U45KoYHsuLOG23w5DvK5OK3wptxzf1AP0Z7HsghWPP4mVhFQ=s900-c-k-c0x00ffffff-no-rj</thumbnail>
 <fanart>https://yt3.ggpht.com/2y_jRiCBKtXc4OdCT0vA2Hkl19U45KoYHsuLOG23w5DvK5OK3wptxzf1AP0Z7HsghWPP4mVhFQ=s900-c-k-c0x00ffffff-no-rj</fanart>
 <info>TNT Séries é um canal de televisão por assinatura especializado em séries, que chegou ao Brasil para substituir o Glitz.</info>
@@ -167,8 +167,8 @@
 <info>Star Life é um canal de televisão por assinatura brasileiro, de propriedade da The Walt Disney Company. O canal é voltado para o público que gosta de séries. O canal raramente exibe também filmes do gênero de drama.</info>
 </item>
 <item>
-<title>[B][COLOR red]Space[/COLOR][/B]</title>
-<link>http://ldxpp.com:8088/btv0cd2b59755137209be94cb/BR%3A%20Space%20FHD</link>
+<title>[B]Space[/B]</title>
+<link>https://cdn2.connectbr.com.br/space/index.m3u8</link>
 <thumbnail>https://yt3.ggpht.com/wCWJhPK7lM0LfQs-Kuhm4DCbt1vusyocQIcBsrpLibAi25KtVKGhwvPaj1t_F5aKSCrYwz3h=s900-c-k-c0x00ffffff-no-rj</thumbnail>
 <fanart>https://yt3.ggpht.com/wCWJhPK7lM0LfQs-Kuhm4DCbt1vusyocQIcBsrpLibAi25KtVKGhwvPaj1t_F5aKSCrYwz3h=s900-c-k-c0x00ffffff-no-rj</fanart>
 <info>Space é um canal de televisão por assinatura brasileiro. É um canal pertencente à Warner Bros. Discovery. Por exibir filmes dos gêneros de ação, ficção científica, policial e terror, e séries do gênero policial e suspense é voltado para mulheres e homens acima de 18 anos de idade. Atualmente ele exibe séries e eventos esportivos consagrados, antes exibidos pelo seu canal-irmão TNT, e também apresenta filmes dublados em português.</info>
@@ -200,14 +200,15 @@
 <item>
 <title>[B][COLOR gold]Discovery Channel[/COLOR][/B]</title>
 <link>http://45.232.196.7:5000/live/DISCOVERY/720p.m3u8$nome=[B]1[/B]</link>
-<link>http://ldxpp.com:8088/btv0cd2b59755137209be94cb/BR%3A%20Discovery%20Channel%20FHD$nome=[B]2[/B]</link>
+<link>http://212.102.58.151/STREAM_8342/index.m3u8?token=Mj8vJzr4HoJEMKxJbMo5ThotxD9M477HcnngO00p1XL1pX1VVAzQqzqrxerbTws$nome=[B]2[/B]</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLQ3_3PhvKkvT-qCfjeXRWfbJ_oCqjGBJ4MC2yby-A=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLQ3_3PhvKkvT-qCfjeXRWfbJ_oCqjGBJ4MC2yby-A=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>O Discovery Channel é um canal de televisão por assinatura distribuído pela Discovery Inc. destinado a apresentação de documentários, séries e programas educativos sobre ciência, tecnologia, história, meio ambiente e geografia.</info>
 </item>
  <item>
 <title>[B]Discovery Turbo[/B]</title>
-<link>http://212.102.58.151/STREAM_8337/index.m3u8?token=Mj8vJzr4HoJEMKxJbMo5ThotxD9M477HcnngO00p1XL1pX1VVAzQqzqrxerbTws</link>
+<link>http://212.102.58.151/STREAM_8337/index.m3u8?token=Mj8vJzr4HoJEMKxJbMo5ThotxD9M477HcnngO00p1XL1pX1VVAzQqzqrxerbTws$nome=1</link>
+<link>http://45.232.196.7:5000/live/DISCTUR/720p.m3u8$nome=2</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLSgjoI9BRrcE4ll_ErY5lLH-g03FU4HiQ_xwDxYJg=s900-c-k-c0x00ffffff-no-rj</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLSgjoI9BRrcE4ll_ErY5lLH-g03FU4HiQ_xwDxYJg=s900-c-k-c0x00ffffff-no-rj</fanart>
 <info>O Discovery Turbo é uma rede pertencente a Warner Bros. Discovery com a programação dedicada a máquinas como carros, motos, barcos e aviões. Tem a tarefa de re-exibir os programas ligados a essas máquinas passados no Discovery Channel, sem intervalos comerciais.</info>
@@ -263,7 +264,8 @@
 </item>
  <item>
 <title>[B]History Channel[/B]</title>
-<link>http://212.102.58.151/STREAM_8352/index.m3u8?token=Mj8vJzr4HoJEMKxJbMo5ThotxD9M477HcnngO00p1XL1pX1VVAzQqzqrxerbTws</link>
+<link>http://212.102.58.151/STREAM_8352/index.m3u8?token=Mj8vJzr4HoJEMKxJbMo5ThotxD9M477HcnngO00p1XL1pX1VVAzQqzqrxerbTws$nome=1</link>
+<link>http://187.85.237.32:8825/ipvt_007</link>
 <thumbnail>https://raw.githubusercontent.com/hugoow/yeloplays/main/Logos/history%201.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/hugoow/yeloplays/main/Logos/history%201.jpg</fanart>
 <info>O History, é uma rede de televisão por assinatura americano cuja programação é focada essencialmente em conteúdos de teor histórico e científico. Apesar disso, a rede também aborda temas atuais de relevância. </info>
