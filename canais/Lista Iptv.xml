@@ -120,7 +120,7 @@
 
 <item>
 <title>[B][COLOR red]Warner Channel[/COLOR][/B]</title>
-<link>http://ldxpp.com:8088/btv0cd2b59755137209be94cb/BR%3A%20Warner%20FHD</link>
+<link>https://tv.googlez01.ml/canais/Warner/Warner.txt</link>
 <thumbnail>https://yt3.ggpht.com/-k81_YePtTItNQUIrzR65S1PyGUVvffUVVXOzosFMnwCHMIpWp0JDmqM9Q9n5ZSt8tYsaDqfUaI=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/-k81_YePtTItNQUIrzR65S1PyGUVvffUVVXOzosFMnwCHMIpWp0JDmqM9Q9n5ZSt8tYsaDqfUaI=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>Warner TV é um canal de televisão paga que vai ao ar principalmente na América Latina, Europa, partes do Sul e Sudeste Asiático, que é propriedade da WarnerMedia por meio de sua unidade Internacional que se concentra na exibição de séries e filmes americanos.</info>
@@ -238,7 +238,7 @@
  
 <item>
 <title>[B]Discovery Turbo[/B]</title>
-<link>http://212.102.58.151/STREAM_8337/index.m3u8?token=Mj8vJzr4HoJEMKxJbMo5ThotxD9M477HcnngO00p1XL1pX1VVAzQqzqrxerbTws$nome=1</link>
+<link>https://tv.googlez01.ml/canais2/DiscoveryTurbo/DiscoveryTurbo.txt$nome=1</link>
 <link>http://45.232.196.7:5000/live/DISCTUR/720p.m3u8$nome=2</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLSgjoI9BRrcE4ll_ErY5lLH-g03FU4HiQ_xwDxYJg=s900-c-k-c0x00ffffff-no-rj</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLSgjoI9BRrcE4ll_ErY5lLH-g03FU4HiQ_xwDxYJg=s900-c-k-c0x00ffffff-no-rj</fanart>
@@ -280,7 +280,7 @@
 <item>
 <title>[B]Discovery H&H[/B]</title>
 <link>http://45.232.196.7:5000/live/DISCHH/720p.m3u8$nome=[b]1[/b]/link></link>
-<link>http://ldxpp.com:8088/btv0cd2b59755137209be94cb/BR%3A%20Discovery%20Home%20Health%20FHD$nome=[b]2[/b]</link>
+<link>https://tv.googlez01.ml/canais/DiscoveryHH/DiscoveryHH.txt$nome=[b]2[/b]</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLReVlotvTTciAFdIDfp9wcl0OYzgYjnm5G07BE6sw=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLReVlotvTTciAFdIDfp9wcl0OYzgYjnm5G07BE6sw=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>O Discovery Home & Health é um canal de TV por assinatura dedicado à beleza, bem estar e a vida em família. O Discovery Home & Health apresenta uma programação diversificada, englobando temas como beleza, moda, saúde, programas cientificos entre outros. Atualmente, os programas exibidos pelo canal são: Um Bebê Por Minuto, Design Divino, Supernanny, 10 Anos Mais Jovem, Esquadrão da Moda, Enigmas da Medicina.</info>
@@ -304,7 +304,7 @@
 
 <item>
 <title>[B]History Channel[/B]</title>
-<link>http://ldxpp.com:8088/btv0cd2b59755137209be94cb/BR%3A%20History%20FHD$nome=1</link>
+<link>https://tv.googlez01.ml/canais2/HistoryChannel/HistoryChannel.txt$nome=1</link>
 <link>http://187.85.237.32:8825/ipvt_007$nome=2</link>
 <thumbnail>https://raw.githubusercontent.com/hugoow/yeloplays/main/Logos/history%201.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/hugoow/yeloplays/main/Logos/history%201.jpg</fanart>
@@ -329,10 +329,18 @@
 
 <item>
 <title>[B][COLOR red]Premiere Clubes[/COLOR][/B]</title>
-<link>http://ldxpp.com:8088/btv0cd2b59755137209be94cb/BR%3A%20Premieres%20Clubes%20FHD</link>
+<link>https://tv.googlez01.ml/canais2/PremiereClubes/PremiereClubes.txt</link>
 <thumbnail>https://yt3.ggpht.com/TJWtORmeS-H_t00g3D0xU33WRqF5zlfhKoUhNf-Vzveneo_duqe8L8gab5LeMy9enQwFCcTI=s900-c-k-c0x00ffffff-no-rj</thumbnail>
 <fanart>https://yt3.ggpht.com/TJWtORmeS-H_t00g3D0xU33WRqF5zlfhKoUhNf-Vzveneo_duqe8L8gab5LeMy9enQwFCcTI=s900-c-k-c0x00ffffff-no-rj</fanart>
 <info>O Premiere é um brasileiro canal de televisão em pay-per-view transmissões do futebol principal campeonatos estaduais no Brasil, e do Campeonato Brasileiro Série A e Série B . Fazendo parte da Canais Globo , está presente EM TVs a Cabo, e em algumas operadoras fora do país, como MEO e NOS . De 1997 a 2006 passou a se chamar Premiere Esportes , passando para o Premiere Futebol Clube e depois para o PFC , mas em 2011 mudou novamente, desta vez para o Premiere FC, que mantém o mesmo nome hoje.</info>
+</item>
+
+<item>
+<title>[B][COLOR red]Conmebol[/COLOR][/B]</title>
+<link>https://tv.googlez01.ml/canais/Conmebol/Conmebol.txt</link>
+<thumbnail>https://yt3.ggpht.com/89JiHsaEsuCuzlcmtemfWyfMtRRbZrjMciCZrWTWT7oRonqiz29iOnBndDifmPQAcF54thytIQ=s900-c-k-c0x00ffffff-no-rj</thumbnail>
+<fanart>https://yt3.ggpht.com/89JiHsaEsuCuzlcmtemfWyfMtRRbZrjMciCZrWTWT7oRonqiz29iOnBndDifmPQAcF54thytIQ=s900-c-k-c0x00ffffff-no-rj</fanart>
+<info>Conmebol TV foi um canal de televisão por assinatura brasileiro em pay-per-view, lançado no dia 15 de setembro de 2020 que transmitiu a Copa Libertadores da América, a Copa Sul-Americana e a Recopa Sul-Americana.</info>
 </item>
 
 <item>
