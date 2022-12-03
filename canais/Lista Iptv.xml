@@ -15,7 +15,7 @@
 </item>
 
 <item>
-<title>[B]Amc[/B]</title>
+<title>[B][COLOR red]Amc[/COLOR][/B]</title>
 <link>http://45.232.196.7:5000/live/AMC/720p.m3u8</link>
 <thumbnail>https://yt3.ggpht.com/eh3T2KiiaFoav9-6JNXf7oWuJTOV0qrG8xwArLo2ll_KuzRF1NyP_aqogvnG9W6KO4tMnGfR=s900-c-k-c0x00ffffff-no-rj</thumbnail>
 <fanart>https://yt3.ggpht.com/eh3T2KiiaFoav9-6JNXf7oWuJTOV0qrG8xwArLo2ll_KuzRF1NyP_aqogvnG9W6KO4tMnGfR=s900-c-k-c0x00ffffff-no-rj</fanart>
@@ -31,7 +31,7 @@
 </item>
 
 <item>
-<title>[B]Universal Channel[/B]</title>
+<title>[B][COLOR red]Universal Channel[/COLOR][/B]</title>
 <link>http://187.85.237.31:8825/ipvt_004</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLSd5bQchM7IrcMuJob0JAp_Y7hTIfCnYP4KZQRcdg=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLSd5bQchM7IrcMuJob0JAp_Y7hTIfCnYP4KZQRcdg=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
@@ -39,7 +39,7 @@
 </item>
 
 <item>
-<title>[B]Studio Universal[/B]</title>
+<title>[B][COLOR red]Studio Universal[/COLOR][/B]</title>
 <link>http://ldxpp.com:8088/btv0cd2b59755137209be94cb/BR%3A%20Studio%20Universal%20FHD</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLTq3LsAfDjH8f5bpUMQJWjsstvvTNlXrDVZ45wb=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLTq3LsAfDjH8f5bpUMQJWjsstvvTNlXrDVZ45wb=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
@@ -47,7 +47,7 @@
 </item>
  
 <item>
-<title>[B]FX[/B]</title>
+<title>[B][COLOR red]FX[/COLOR][/B]</title>
 <link>http://45.232.196.7:5000/live/FX/720p.m3u8</link>
 <thumbnail>https://i.imgur.com/04WwH7w.jpg</thumbnail>
 <fanart>https://i.imgur.com/04WwH7w.jpg</fanart>
@@ -63,7 +63,7 @@
 </item>
  
 <item>
-<title>[B][COLOR red]Cinemax[/COLOR][/B]</title>
+<title>[B]Cinemax[/B]</title>
 <link>https://cdn2.connectbr.com.br/cinemax/index.m3u8</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLThtJEvCDHDCpjRSpjDMFA_qza2g7cOysX2qv2dEA=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLThtJEvCDHDCpjRSpjDMFA_qza2g7cOysX2qv2dEA=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
@@ -79,7 +79,7 @@
 </item>
  
 <item>
-<title>[B]SYFY[/B]</title>
+<title>[B][COLOR red]SYFY[/COLOR][/B]</title>
 <link>http://ldxpp.com:8088/btv0cd2b59755137209be94cb/BR%3A%20Syfy%20FHD</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLR-MKolkiLz4G71HORKcoXdPlQ7bPhSjoG4pbzizg=s900-c-k-c0x00ffffff-no-rj</thumbnail>
 <fanart>hhttps://yt3.ggpht.com/ytc/AKedOLR-MKolkiLz4G71HORKcoXdPlQ7bPhSjoG4pbzizg=s900-c-k-c0x00ffffff-no-rj</fanart>
@@ -95,7 +95,7 @@
 </item>
  
 <item>
-<title>[B]HBO Family[/B]</title>
+<title>[B][COLOR red]HBO Family[/COLOR][/B]</title>
 <link>http://ldxpp.com:8088/btv0cd2b59755137209be94cb/BR%3A%20HBO%20Family%20FHD</link>
 <thumbnail>https://i.imgur.com/a0KKp8F.jpg</thumbnail>
 <fanart>https://i.imgur.com/a0KKp8F.jpg</fanart>
@@ -119,7 +119,7 @@
 </item>
 
 <item>
-<title>[B][COLOR red]Warner Channel[/COLOR][/B]</title>
+<title>[B]Warner Channel[/B]</title>
 <link>https://cdn2.connectbr.com.br/wb/index.m3u8</link>
 <thumbnail>https://yt3.ggpht.com/-k81_YePtTItNQUIrzR65S1PyGUVvffUVVXOzosFMnwCHMIpWp0JDmqM9Q9n5ZSt8tYsaDqfUaI=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/-k81_YePtTItNQUIrzR65S1PyGUVvffUVVXOzosFMnwCHMIpWp0JDmqM9Q9n5ZSt8tYsaDqfUaI=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
@@ -127,7 +127,7 @@
 </item>
 
 <item>
-<title>[B]Telecine Action[/B]</title>
+<title>[B][COLOR red]Telecine Action[/COLOR][/B]</title>
 <link>187.85.237.26:8825/ipvt_004</link>
 <thumbnail>https://i.imgur.com/5dtMgdN.jpg</thumbnail>
 <fanart>https://i.imgur.com/5dtMgdN.jpg</fanart>
@@ -135,7 +135,7 @@
 </item>
 
 <item>
-<title>[B]Telecine Pipoca[/B]</title>
+<title>[B][COLOR red]Telecine Pipoca[/COLOR][/B]</title>
 <link>http://187.85.237.25:8825/ipvt_005</link>
 <thumbnail>https://i.imgur.com/RB2pmH5.jpg</thumbnail>
 <fanart>https://i.imgur.com/RB2pmH5.jpg</fanart>
@@ -143,7 +143,7 @@
 </item>
 
 <item>
-<title>[B]Telecine Touch[/B]</title>
+<title>[B][COLOR red]Telecine Touch[/COLOR][/B]</title>
 <link>http://187.85.237.3:8220/ipvt_005</link>
 <thumbnail>https://i.imgur.com/go8AV6t.jpg</thumbnail>
 <fanart>https://i.imgur.com/go8AV6t.jpg</fanart>
@@ -151,7 +151,7 @@
 </item>
 
 <item>
-<title>[B]Telecine Premium[/B]</title>
+<title>[B][COLOR red]Telecine Premium[/COLOR][/B]</title>
 <link>http://187.85.237.34:8825/ipvt_002</link>
 <thumbnail>https://i.imgur.com/qMlbKK4.jpg</thumbnail>
 <fanart>https://i.imgur.com/qMlbKK4.jpg</fanart>
@@ -167,7 +167,7 @@
 </item>
 
 <item>
-<title>[B]Telecine Cult[/B]</title>
+<title>[B][COLOR red]Telecine Cult[/COLOR][/B]</title>
 <link>http://187.85.237.34:8825/ipvt_001</link>
 <thumbnail>https://i.imgur.com/mbQESeh.jpg</thumbnail>
 <fanart>https://i.imgur.com/mbQESeh.jpg</fanart>
@@ -175,7 +175,7 @@
 </item>
 
 <item>
-<title>[B]Star Channel[/B]</title>
+<title>[B][COLOR red]Star Channel[/COLOR][/B]</title>
 <link>http://187.85.237.3:8220/ipvt_002</link>
 <thumbnail>https://yt3.ggpht.com/HdOn-x1FU4OD5Kkmqq2rU1A6JrgAaAbNlkiV5c6-F5ZyuoULj-iZqZtVPClepPFUnGye9oZDKg=s900-c-k-c0x00ffffff-no-rj</thumbnail>
 <fanart>https://yt3.ggpht.com/HdOn-x1FU4OD5Kkmqq2rU1A6JrgAaAbNlkiV5c6-F5ZyuoULj-iZqZtVPClepPFUnGye9oZDKg=s900-c-k-c0x00ffffff-no-rj</fanart>
@@ -200,9 +200,7 @@
 
 <item>
 <title>[B]Axn[/B]</title>
-<link>http://ldxpp.com:8088/btv0cd2b59755137209be94cb/BR%3A%20AXN%20FHD$nome=[B]1[COLOR lime](Melhor)[/COLOR][/B]</link>
-<link>http://187.85.237.8:8825/ipvt_005$nome=[B]2[/B]</link>
-<link>http://cdn2.connectbr.com.br/axn/index.m3u8$nome=[B]3[/B]</link>
+<link>http://cdn2.connectbr.com.br/axn/index.m3u8</link>
 </link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLRLX1lCoFmUEDshITJeDUmnrcLWFktw2JyvGg7GXA=s900-c-k-c0x00ffffff-no-rj</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLRLX1lCoFmUEDshITJeDUmnrcLWFktw2JyvGg7GXA=s900-c-k-c0x00ffffff-no-rj</fanart>
@@ -218,7 +216,7 @@
 </item>
 
 <item>
-<title>[B]Animal Planet[/B]</title>
+<title>[B][COLOR red]Animal Planet[/COLOR][/B]</title>
 <link>http://ldxpp.com:8088/btvbc82fb04d8ffce7b1818cb/BR%3A%20Animal%20Planet%20FHD</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLTChNfvfVz3W6SDTskz8GCfMxVNeFrrEWOuNqpx=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLTChNfvfVz3W6SDTskz8GCfMxVNeFrrEWOuNqpx=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
