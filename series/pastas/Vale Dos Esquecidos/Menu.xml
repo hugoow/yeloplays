@@ -7,5 +7,13 @@
     <fanart>https://art-gallery-latam.api.hbo.com/images/GYw-Q1wlp91iCmwEAAAlK/tile?v=8bc14e7c79b3aa89bf88cfb508884a29&size=1280x720&compression=low&protection=false&language=pt-br/fanart>
     <info>Um grupo de jovens se perde fazendo uma trilha no meio da mata, quando são atacados. Feridos e com dos seus tendo sido capturado, eles encontram abrigo em um vilarejo coberto por uma névoa eterna, um lugar de onde ninguém pode escapar.</info>
     </channel>
+
+        <channel>
+    <name>[B][COLOR white]Temporada 1[/COLOR][/B]</name>
+    <thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
+    <externallink>https://raw.githubusercontent.com/hugoow/yeloplays/main/series/pastas/Peaky%20Blinders/temp%201.xml</externallink>
+    <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+    <info>O detetive de Belfast Chester Campbell é enviado a Birmingham para livrar a cidade de suas violentas gangues de rua.</info>
+    </channel>
       
     </channels>
