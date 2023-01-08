@@ -14,10 +14,10 @@
 <info>Uma notória gangue da Inglaterra de 1919 é liderada pelo cruel Tommy Shelby, um criminoso disposto a subir na vida a qualquer preço.</info>
 </channel>
 <channel>
-<name>[B][COLOR white]Trilogias[/COLOR][/B]</name>
-<thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/hugoow/yeloplays/main/lancamentos2021.xml</externallink>
-<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+<name>[B][COLOR white]Vale Dos Esquecidos[/COLOR][/B]</name>
+<thumbnail>https://art-gallery-latam.api.hbo.com/images/GYw-Q1wlp91iCmwEAAAlK/tile?v=8bc14e7c79b3aa89bf88cfb508884a29&size=1280x720&compression=low&protection=false&language=pt-br</thumbnail>
+<externallink>https://raw.githubusercontent.com/hugoow/yeloplays/main/series/pastas/Vale Dos Esquecidos/Menu.xml</externallink>
+<fanart>https://art-gallery-latam.api.hbo.com/images/GYw-Q1wlp91iCmwEAAAlK/tile?v=8bc14e7c79b3aa89bf88cfb508884a29&size=1280x720&compression=low&protection=false&language=pt-br</fanart>
 <info>Sequencia De Filmes Organizadas Juntas</info>
 </channel>
 </channels>
