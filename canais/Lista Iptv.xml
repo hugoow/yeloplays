@@ -16,7 +16,7 @@
 
 <item>
 <title>[B][COLOR red]Amc[/COLOR][/B]</title>
-<link>http://45.232.196.7:5000/live/AMC/720p.m3u8</link>
+<link>http://45.58.126.146:14296/</link>
 <thumbnail>https://yt3.ggpht.com/eh3T2KiiaFoav9-6JNXf7oWuJTOV0qrG8xwArLo2ll_KuzRF1NyP_aqogvnG9W6KO4tMnGfR=s900-c-k-c0x00ffffff-no-rj</thumbnail>
 <fanart>https://yt3.ggpht.com/eh3T2KiiaFoav9-6JNXf7oWuJTOV0qrG8xwArLo2ll_KuzRF1NyP_aqogvnG9W6KO4tMnGfR=s900-c-k-c0x00ffffff-no-rj</fanart>
 <info>AMC é um canal de televisão por assinatura multinacional americana que é a principal propriedade da AMC Networks. A programação do canal consiste principalmente de filmes lançados nos cinemas, juntamente com uma quantidade limitada de programação original.</info>
@@ -24,7 +24,7 @@
 
 <item>
 <title>[B]Sony Channel[/B]</title>
-<link>https://cdn2.connectbr.com.br/sony/index.m3u8</link>
+<link>http://199.127.60.83:16063/</link>
 <thumbnail>https://yt3.ggpht.com/pcZ2cfu_IQ_-XtlYYTz-cONaXc_82mxiAIeX_DEZGx0g2TQbSBlHwZ8iIx5Kli1KZOf6gOlQ6Q=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/pcZ2cfu_IQ_-XtlYYTz-cONaXc_82mxiAIeX_DEZGx0g2TQbSBlHwZ8iIx5Kli1KZOf6gOlQ6Q=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>Sony Channel é um canal de entretenimento geral de propriedade da Sony Pictures Entertainment. Transmitido na Alemanha, Rússia, Países Bálticos, Reino Unido, Irlanda e América Latina. O canal não possui uma sede principal, mas a sua divisão pertence principalmente à Sony Pictures Entertainment que é sediada na cidade de Culver City, na Califórnia. Na América Latina é distribuído pela Ole Distribution.</info>
@@ -104,7 +104,7 @@
 
 <item>
 <title>[B]Paramout Channel[/B]</title>
-<link>http://contentzord.gelderland.ga:2095/live/paramount/chunks.m3u8?token=87811ad2784ew2d2</link>
+<link>http://187.95.95.243/paramount/playlist.m3u8</link>
 <thumbnail>https://yt3.ggpht.com/PONSj7yNZXmRc_whSU8ihBrDAAeoWMXPXaeAdYYLldEXK4YjXPFw0Uiox6KdDOcujYqhjHSd=s900-c-k-c0x00ffffff-no-rj</thumbnail>
 <fanart>https://yt3.ggpht.com/PONSj7yNZXmRc_whSU8ihBrDAAeoWMXPXaeAdYYLldEXK4YjXPFw0Uiox6KdDOcujYqhjHSd=s900-c-k-c0x00ffffff-no-rj</fanart>
 <info>Paramount Channel é um canal de TV por assinatura lançado em 14 de novembro de 2014 e pertencente a Paramount Networks Americas que exibe entre sua programação filmes e series originais da Paramount Pictures.</info>
@@ -200,7 +200,7 @@
 
 <item>
 <title>[B]Axn[/B]</title>
-<link>http://contentzord.gelderland.ga:2095/live/axn/chunks.m3u8?token=87811ad2784ew2d2</link>
+<link>http:/45.58.126.146:14299/</link>
 </link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLRLX1lCoFmUEDshITJeDUmnrcLWFktw2JyvGg7GXA=s900-c-k-c0x00ffffff-no-rj</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLRLX1lCoFmUEDshITJeDUmnrcLWFktw2JyvGg7GXA=s900-c-k-c0x00ffffff-no-rj</fanart>
@@ -217,7 +217,7 @@
 
 <item>
 <title>[B][COLOR red]Animal Planet[/COLOR][/B]</title>
-<link>http://contentzord.gelderland.ga:2095/live/animalplanet/chunks.m3u8?token=87811ad2784ew2d2</link>
+<link>http://45.58.126.146:14249/</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLTChNfvfVz3W6SDTskz8GCfMxVNeFrrEWOuNqpx=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLTChNfvfVz3W6SDTskz8GCfMxVNeFrrEWOuNqpx=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>O Animal Planet é um canal de televisão por assinatura com sede nos Estados Unidos da América e transmitido também para a América latina. Estabelecido pela primeira vez em 1 de outubro de 1996, a rede é dedicada principalmente a séries e documentários sobre animais selvagens e animais domésticos. O canal pertence à Discovery Inc.</info>
@@ -225,8 +225,7 @@
 
 <item>
 <title>[B][COLOR gold]Discovery Channel[/COLOR][/B]</title>]
-<link>http://contentzord.gelderland.ga:2095/live/discoverychannel/chunks.m3u8?token=87811ad2784ew2d2$nome=[B]1[/B]</link>
-<link>http://189.85.164.198:2086/live/DISCOVERY/720p.m3u8$nome=[B]2[/B]</link>
+<link>http://45.58.126.146:14252/</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLQ3_3PhvKkvT-qCfjeXRWfbJ_oCqjGBJ4MC2yby-A=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLQ3_3PhvKkvT-qCfjeXRWfbJ_oCqjGBJ4MC2yby-A=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>O Discovery Channel é um canal de televisão por assinatura distribuído pela Discovery Inc. destinado a apresentação de documentários, séries e programas educativos sobre ciência, tecnologia, história, meio ambiente e geografia.</info>
@@ -292,8 +291,7 @@
 
 <item>
 <title>[B]Nat Geo[/B]</title>
-<link>http://gmaplay.xyz:8080/tvonline52018/88569KKfwWcmN436346887000Bssa457866435I789124fW4574454589965468795644056F345FFR2345/62256$nome=1</link>
-<link>http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58488$nome=2</link>
+<link>http://170.82.200.35/nat_geo/tracks-v1a1/index.m3u8</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLTdh4vj3oGXpCXT3lMqha9_Qq4-JvMBlpztnHvi_mI=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLTdh4vj3oGXpCXT3lMqha9_Qq4-JvMBlpztnHvi_mI=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>National Geographic (anteriormente conhecido como National Geographic Channel, também comercialmente abreviado e registrado como Nat Geo) é um canal de televisão por assinatura brasileiro, de propriedade da The Walt Disney Company. O canal é destinado a apresentação de documentários, séries e programas educativos sobre ciência, tecnologia, história e meio ambiente.</info>
