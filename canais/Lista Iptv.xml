@@ -136,7 +136,7 @@
 
 <item>
 <title>[B][COLOR]Telecine Pipoca[/COLOR][/B]</title>
-<link>http:fadder.eletrinho.shop:2095/live/telecinepipoca/chunks.m3u8</link>
+<link>http://fadder.eletrinho.shop:2095/live/telecinepipoca/chunks.m3u8</link>
 <thumbnail>https://i.imgur.com/RB2pmH5.jpg</thumbnail>
 <fanart>https://i.imgur.com/RB2pmH5.jpg</fanart>
 <info>Telecine Pipoca é um canal de televisão por assinatura brasileiro que exibe 24 horas de filmes em versão dublada os principais filmes apresentados pelo Telecine Premium, Telecine Action, Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comerciais de 2 minutos (apenas uma pausa por filme).</info>
@@ -152,7 +152,7 @@
 
 <item>
 <title>[B][COLOR]Telecine Premium[/COLOR][/B]</title>
-<link>http:fadder.eletrinho.shop:2095/live/telecinepremium/chunks.m3u8</link>
+<link>http://fadder.eletrinho.shop:2095/live/telecinepremium/chunks.m3u8</link>
 <thumbnail>https://i.imgur.com/qMlbKK4.jpg</thumbnail>
 <fanart>https://i.imgur.com/qMlbKK4.jpg</fanart>
 <info>Telecine Premium é um canal de televisão brasileiro pertencente à Rede Telecine, transmitido pela TV por assinatura nas operadoras Vivo TV, Claro TV, Sky Brasil e Oi TV com a transmissão de filmes que geralmente são estreias inéditas na televisão brasileira, que já foram atrações de maior bilheteria, lançamentos de grande sucesso, ou as mais recentes produções dos anos 90.</info>
@@ -160,7 +160,7 @@
 
 <item>
 <title>[B][COLOR red]Telecine Fun[/COLOR][/B]</title>
-<link>http:fadder.eletrinho.shop:2095/live/telecinefun/chunks.m3u8</link>
+<link>http://fadder.eletrinho.shop:2095/live/telecinefun/chunks.m3u8</link>
 <thumbnail>https://i.imgur.com/EQIL1X5.jpg</thumbnail>
 <fanart>https://i.imgur.com/EQIL1X5.jpg</fanart>
 <info>Telecine Fun é um canal de televisão por assinatura brasileiro pertencente aos canais da Rede Telecine. O canal exibe filmes de comédia, comédia romântica, animações e desenhos animados. Originalmente no idioma original com legendas, mas desde 2012 em versão dublada.</info>
@@ -217,7 +217,7 @@
 
 <item>
 <title>[B][COLOR red]Animal Planet[/COLOR][/B]</title>
-<link>https://marlokasso.com.br.global.prod.fastly.net/live/animalplanet/play1.m3u8</link>
+<link>http://marlokasso.com.br.global.prod.fastly.net/live/animalplanet/play1.m3u8</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLTChNfvfVz3W6SDTskz8GCfMxVNeFrrEWOuNqpx=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLTChNfvfVz3W6SDTskz8GCfMxVNeFrrEWOuNqpx=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>O Animal Planet é um canal de televisão por assinatura com sede nos Estados Unidos da América e transmitido também para a América latina. Estabelecido pela primeira vez em 1 de outubro de 1996, a rede é dedicada principalmente a séries e documentários sobre animais selvagens e animais domésticos. O canal pertence à Discovery Inc.</info>
@@ -225,7 +225,7 @@
 
 <item>
 <title>[B][COLOR gold]Discovery Channel[/COLOR][/B]</title>]
-<link>http://marlokasso.com.br.global.prod.fastly.net/live/discoverychannel/play1.m3u8/</link>
+<link>http://marlokasso.com.br.global.prod.fastly.net/live/discoverychannel/play1.m3u8</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLQ3_3PhvKkvT-qCfjeXRWfbJ_oCqjGBJ4MC2yby-A=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLQ3_3PhvKkvT-qCfjeXRWfbJ_oCqjGBJ4MC2yby-A=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>O Discovery Channel é um canal de televisão por assinatura distribuído pela Discovery Inc. destinado a apresentação de documentários, séries e programas educativos sobre ciência, tecnologia, história, meio ambiente e geografia.</info>
@@ -233,7 +233,7 @@
  
 <item>
 <title>[B]Discovery Turbo[/B]</title>
-<link>http:fadder.eletrinho.shop:2095/live/discoveryturbo/chunks.m3u8</link>
+<link>http://fadder.eletrinho.shop:2095/live/discoveryturbo/chunks.m3u8</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLSgjoI9BRrcE4ll_ErY5lLH-g03FU4HiQ_xwDxYJg=s900-c-k-c0x00ffffff-no-rj</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLSgjoI9BRrcE4ll_ErY5lLH-g03FU4HiQ_xwDxYJg=s900-c-k-c0x00ffffff-no-rj</fanart>
 <info>O Discovery Turbo é uma rede pertencente a Warner Bros. Discovery com a programação dedicada a máquinas como carros, motos, barcos e aviões. Tem a tarefa de re-exibir os programas ligados a essas máquinas passados no Discovery Channel, sem intervalos comerciais.</info>
