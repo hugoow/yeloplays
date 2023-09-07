@@ -200,7 +200,7 @@
 
 <item>
 <title>[B]Axn[/B]</title>
-<link>http://212.102.60.39:2200/BRX/AXN_HD/tracks-v1a1/mono.m3u8</link>
+<link>http://fadder.eletrinho.shop:2095/live/axn/chunks.m3u8</link>
 </link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLRLX1lCoFmUEDshITJeDUmnrcLWFktw2JyvGg7GXA=s900-c-k-c0x00ffffff-no-rj</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLRLX1lCoFmUEDshITJeDUmnrcLWFktw2JyvGg7GXA=s900-c-k-c0x00ffffff-no-rj</fanart>
@@ -225,7 +225,7 @@
 
 <item>
 <title>[B][COLOR gold]Discovery Channel[/COLOR][/B]</title>]
-<link>http://212.102.60.39:2200/BRX/Discovery_Channel_HD/tracks-v1a1/mono.m3u8</link>
+<link>http://fadder.eletrinho.shop:2095/live/discoverychannel/chunks.m3u8</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLQ3_3PhvKkvT-qCfjeXRWfbJ_oCqjGBJ4MC2yby-A=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLQ3_3PhvKkvT-qCfjeXRWfbJ_oCqjGBJ4MC2yby-A=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>O Discovery Channel é um canal de televisão por assinatura distribuído pela Discovery Inc. destinado a apresentação de documentários, séries e programas educativos sobre ciência, tecnologia, história, meio ambiente e geografia.</info>
@@ -297,7 +297,7 @@
 
 <item>
 <title>[B]History Channel[/B]</title>
-<link>http://marlokasso.com.br.global.prod.fastly.net/live/history/play1.m3u8</link>
+<link>http://187.95.95.243/History/index.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/hugoow/yeloplays/main/Logos/history%201.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/hugoow/yeloplays/main/Logos/history%201.jpg</fanart>
 <info>O History, é uma rede de televisão por assinatura americano cuja programação é focada essencialmente em conteúdos de teor histórico e científico. Apesar disso, a rede também aborda temas atuais de relevância. </info>
