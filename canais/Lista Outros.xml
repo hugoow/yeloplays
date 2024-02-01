@@ -32,7 +32,7 @@
 
 <item>
 <title>[B][COLOR gold]24Hrs[/COLOR] - Chaves[/B]</title>
-<link>http://24hrs.homelinux.com/24H-chaves-serie/index.m3u8</link>
+<link>http://24hrs.homelinux.com/24H-chaves-a-serie/video.m3u8?token=a4A2wbotS3</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info>Acompanhe o dia a dia de Chaves, um menino pobre que passa sua infância em uma pequena vila ao lado de seus amigos, Chiquinha e Kiko. Ele cria complicações para os adultos Seu Madruga, Seu Barriga, Professor Girafales, Dona Florinda e a Bruxa do 71.</info>
@@ -96,10 +96,26 @@
 
 <item>
 <title>[B][COLOR gold]24Hrs[/COLOR] - Pica Pau[/B]</title>
-<link>http://24hrs.homelinux.com/24H-picapau/index.m3u8</link>
+<link>http://24hrs.homelinux.com/24H-picapau/video.m3u8?token=a4A2wbotS3</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info>Pica-pau é um personagem da série estadunidense de mesmo nome, um pica-pau antropomórfico, que estrelou vários curta-metragens de animação produzidos pelo estúdio de Walter Lantz e distribuídos pela Universal Pictures. </info>
+</item>
+
+<item>
+<title>[B][COLOR gold]24Hrs[/COLOR] - Pegadinhas Silvio Santos[/B]</title>
+<link>http://24hrs.homelinux.com/24H-pegadihassilviosantos.txt/video.m3u8?token=a4A2wbotS3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Silvio Santos foi pioneiro ao trazer as pegadinhas para o Brasil. As brincadeiras se tornaram um fenômeno no país e outros apresentadores foram na onda em seus programas</info>
+</item>
+
+<item>
+<title>[B][COLOR gold]24Hrs[/COLOR] - Scooby Doo[/B]</title>
+<link>http://24hrs.homelinux.com/24H-scoobdoo/video.m3u8?token=a4A2wbotS3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Scooby-Doo é uma franquia americana de mídia criada por Joe Ruby e Ken Spears. Inicialmente, a série foi produzida pela Hanna-Barbera. Após a absorção da Hanna-Barbera pela Warner Bros. em 2001, a franquia passou a ser produzida pela divisão de animação da Warner, a Warner Bros. Animation.</info>
 </item>
 
 <item>
@@ -117,3 +133,6 @@
 <fanart></fanart>
 <info>Will Smith mostra um retrato aproximado de sua vida real. Nessa comédia, sua mãe o envia da Filadélfia para viver com o tios ricos Phil e Vivian em Bel-Air, Califórnia, onde vive se divertindo com as trapalhadas dos primos Carlton e Hilary.</info>
 </item>
+
+//24hrs.homelinux.com/24H-tom-e-jerry/video.m3u8?token=a4A2wbotS3
+//24hrs.homelinux.com/24H-Peppa.Pig.S01.S02.S03.S04/video.m3u8?token=a4A2wbotS3
