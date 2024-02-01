@@ -64,7 +64,7 @@
  
 <item>
 <title>[B]Cinemax[/B]</title>
-<link>http://fadder.eletrinho.shop:2095/live/cinemax/chunks.m3u8</link>
+<link>http://64.31.40.14:14031/</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLThtJEvCDHDCpjRSpjDMFA_qza2g7cOysX2qv2dEA=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLThtJEvCDHDCpjRSpjDMFA_qza2g7cOysX2qv2dEA=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>A partir do dia 1º de junho de 2010, devido a mudanças feitas na rede de canais da HBO Latin America Group, o canal Cinemax e o Cinemax2 muda para uma nova marca Max HD e Max respectivamente, cuja programação será disponível também em alta definição</info>
@@ -104,7 +104,7 @@
 
 <item>
 <title>[B]Paramout Channel[/B]</title>
-<link>http://187.95.95.243/paramount/playlist.m3u8</link>
+<link>http://187.95.95.247/paramount/index.m3u8</link>
 <thumbnail>https://yt3.ggpht.com/PONSj7yNZXmRc_whSU8ihBrDAAeoWMXPXaeAdYYLldEXK4YjXPFw0Uiox6KdDOcujYqhjHSd=s900-c-k-c0x00ffffff-no-rj</thumbnail>
 <fanart>https://yt3.ggpht.com/PONSj7yNZXmRc_whSU8ihBrDAAeoWMXPXaeAdYYLldEXK4YjXPFw0Uiox6KdDOcujYqhjHSd=s900-c-k-c0x00ffffff-no-rj</fanart>
 <info>Paramount Channel é um canal de TV por assinatura lançado em 14 de novembro de 2014 e pertencente a Paramount Networks Americas que exibe entre sua programação filmes e series originais da Paramount Pictures.</info>
@@ -200,7 +200,7 @@
 
 <item>
 <title>[B]Axn[/B]</title>
-<link>http://45.58.126.146:14299/axn$nome=1</link>
+<link>http://cdn.connectbr.com.br/axn/tracks-v1a1/mono.m3u8$nome=1</link>
 <link>http://64.31.40.14:14027/$nome=2</link>
 </link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLRLX1lCoFmUEDshITJeDUmnrcLWFktw2JyvGg7GXA=s900-c-k-c0x00ffffff-no-rj</thumbnail>
@@ -250,7 +250,7 @@
 
 <item>
 <title>[B]Discovery Science[/B]</title>
-<link>http://fadder.eletrinho.shop:2095/live/discoverysience/chunks.m3u8</link>
+<link>http://84.17.44.179:14620/</link>
 <thumbnail>https://github.com/hugoow/yeloplays/blob/main/Logos/dis%20sci.png?raw=true</thumbnail>
 <fanart>https://github.com/hugoow/yeloplays/blob/main/Logos/dis%20sci.png?raw=true</fanart>
 <info>Discovery Science é um canal de televisão de TV por assinatura do grupo Warner Bros. Discovery que tem como tarefa reexibir os programas ligados a ciência passados no Discovery Channel, sem intervalos comerciais. Exibe documentários sobre astronomia, tecnologia, história e biologia. Alguns de seus programas mais famosos são "Grandes Mistérios do Universo com Morgan Freeman", "Como funciona o Universo", "MythBusters", "Como é Feito", "A Ciência do Impossível", entre muitos outros.</info>
@@ -290,7 +290,7 @@
 
 <item>
 <title>[B]Nat Geo[/B]</title>
-<link>http://fadder.eletrinho.shop:2095/live/natgeowild/chunks.m3u8</link>
+<link>http://84.17.44.179:14635/</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AKedOLTdh4vj3oGXpCXT3lMqha9_Qq4-JvMBlpztnHvi_mI=s900-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://yt3.ggpht.com/ytc/AKedOLTdh4vj3oGXpCXT3lMqha9_Qq4-JvMBlpztnHvi_mI=s900-c-k-c0x00ffffff-no-rj-mo</fanart>
 <info>National Geographic (anteriormente conhecido como National Geographic Channel, também comercialmente abreviado e registrado como Nat Geo) é um canal de televisão por assinatura brasileiro, de propriedade da The Walt Disney Company. O canal é destinado a apresentação de documentários, séries e programas educativos sobre ciência, tecnologia, história e meio ambiente.</info>
