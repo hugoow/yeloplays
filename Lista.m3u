@@ -1,45 +1,45 @@
 
 ################## Documentarios
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="" tvg-logo="https://lo1.in/BR/disch.png" group-title="Canais | Documentarios",Discovery CHANNEL HD
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="" tvg-logo="https://lo1.in/BR/disch.png" group-title="Canais | Documentarios",Discovery CHANNEL HD
 http://185.246.208.74:14144
 
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="" tvg-logo="https://lo1.in/BR/disch.png" group-title="Canais | Documentarios",Discovery CHANNEL SD
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="" tvg-logo="https://lo1.in/BR/disch.png" group-title="Canais | Documentarios",Discovery CHANNEL SD
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/65
 
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="" tvg-logo="https://lo1.in/BR/distrb.png" group-title="Canais | Documentarios",Discovery TURBO HD
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="" tvg-logo="https://lo1.in/BR/distrb.png" group-title="Canais | Documentarios",Discovery TURBO HD
 http://79.127.238.228:14367
 
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="" tvg-logo="https://lo1.in/BR/distrb.png" group-title="Canais | Documentarios",Discovery Turbo HD
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="" tvg-logo="https://lo1.in/BR/distrb.png" group-title="Canais | Documentarios",Discovery Turbo HD
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1022
 
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="" tvg-logo="https://lo1.in/arg/hhh.png" group-title="Canais | Documentarios",Discovery H&H HD
+#EXTINF:-1 tvg-id="Discoveryhomehealth.br" tvg-name="" tvg-logo="https://lo1.in/arg/hhh.png" group-title="Canais | Documentarios",Discovery H&H HD
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/68
 
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="" tvg-logo="https://lo1.in/BR/dissci.png" group-title="Canais | Documentarios",Discovery SCIENCE HD
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="" tvg-logo="https://lo1.in/BR/dissci.png" group-title="Canais | Documentarios",Discovery SCIENCE HD
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/71
 
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="" tvg-logo="https://lo1.in/BR/disinve.png" group-title="Canais | Documentarios",Discovery ID HD
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/69
 
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="" tvg-logo="https://lo1.in/BR/diswrd.png" group-title="Canais | Documentarios",Discovery World HD
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="" tvg-logo="https://lo1.in/BR/diswrd.png" group-title="Canais | Documentarios",Discovery World HD
 https://new.m3u8.one/discoveryword/index.m3u8
 
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="" tvg-logo="https://lo1.in/BR/anmpl.png" group-title="Canais | Documentarios",Animal Planet HD
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="" tvg-logo="https://lo1.in/BR/anmpl.png" group-title="Canais | Documentarios",Animal Planet HD
 http://79.127.238.228:14386
 
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="" tvg-logo="https://lo1.in/BR/h2.png" group-title="Canais | Documentarios",H2 SD
+#EXTINF:-1 tvg-id="H2.br" tvg-name="" tvg-logo="https://lo1.in/BR/h2.png" group-title="Canais | Documentarios",H2 SD
 http://zutufo.in:80/live/781487031/K788a6763d/2620_.m3u8
 
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="" tvg-logo="https://lo1.in/BR/h2.png" group-title="Canais | Documentarios",H2 HD
+#EXTINF:-1 tvg-id="H2.br" tvg-name="" tvg-logo="https://lo1.in/BR/h2.png" group-title="Canais | Documentarios",H2 HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162432.m3u8
 
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="" tvg-logo="https://lo1.in/BR/histch.png" group-title="Canais | Documentarios",History HD
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="" tvg-logo="https://lo1.in/BR/histch.png" group-title="Canais | Documentarios",History HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162440.m3u8
 
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="" tvg-logo="https://lo1.in/BR/histch.png" group-title="Canais | Documentarios",History FHD
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="" tvg-logo="https://lo1.in/BR/histch.png" group-title="Canais | Documentarios",History FHD
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/82
 
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="" tvg-logo="https://lo1.in/BR/natgeo.png" group-title="Canais | Documentarios",NAT GEO HD
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="" tvg-logo="https://lo1.in/BR/natgeo.png" group-title="Canais | Documentarios",NAT GEO HD
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/87
 
 
@@ -52,25 +52,25 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/238
 #EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/sny.png"" group-title="Canais | Filmes e Series", SONY MOVIES HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162318.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/paramch.png" group-title="Canais | Filmes e Series", PARAMOUNT FHD
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="https://lo1.in/BR/paramch.png" group-title="Canais | Filmes e Series", PARAMOUNT FHD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162465.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/paramch.png" group-title="Canais | Filmes e Series", PARAMOUNT HD
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="https://lo1.in/BR/paramch.png" group-title="Canais | Filmes e Series", PARAMOUNT HD
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/276
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/cinmx.png" group-title="Canais | Filmes e Series", CINEMAX HD
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/239
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/axn.png" group-title="Canais | Filmes e Series", AXN HD
+#EXTINF:-1 tvg-id="Axn.br" tvg-logo="https://lo1.in/BR/axn.png" group-title="Canais | Filmes e Series", AXN HD
 http://79.127.238.228:14563
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/axn.png" group-title="Canais | Filmes e Series", AXN FHD
+#EXTINF:-1 tvg-id="Axn.br" tvg-logo="https://lo1.in/BR/axn.png" group-title="Canais | Filmes e Series", AXN FHD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162307.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/megapx.png" group-title="Canais | Filmes e Series", MEGAPIX HD
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="https://lo1.in/BR/megapx.png" group-title="Canais | Filmes e Series", MEGAPIX HD
 http://79.127.238.228:14592
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/megapx.png" group-title="Canais | Filmes e Series", MEGAPIX FHD
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="https://lo1.in/BR/megapx.png" group-title="Canais | Filmes e Series", MEGAPIX FHD
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/270
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/lftm.png" group-title="Canais | Filmes e Series", LIFETIME HD
