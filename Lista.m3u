@@ -13,7 +13,7 @@ http://15.235.50.112:14097
 http://15.235.50.112:14097
 
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="" tvg-logo="https://lo1.in/arg/hhh.png" group-title="Canais | Documentarios",Discovery H&H HD
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/68
+http://185.236.183.118:14146
 
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="" tvg-logo="https://lo1.in/BR/dissci.png" group-title="Canais | Documentarios",Discovery SCIENCE HD
 http://15.235.50.112:14106/
@@ -22,10 +22,10 @@ http://15.235.50.112:14106/
 http://185.236.183.117:14440/
 
 #EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="" tvg-logo="https://lo1.in/BR/diswrd.png" group-title="Canais | Documentarios",Discovery World HD
-https://new.m3u8.one/discoveryword/index.m3u8
+http://185.236.183.118:14165
 
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="" tvg-logo="https://lo1.in/BR/anmpl.png" group-title="Canais | Documentarios",Animal Planet HD
-http://185.236.183.117:14014/
+http://185.236.183.117:14013/
 
 #EXTINF:-1 tvg-id="H2.br" tvg-name="" tvg-logo="https://lo1.in/BR/h2.png" group-title="Canais | Documentarios",H2 SD
 http://185.236.183.118:14391/
@@ -39,7 +39,7 @@ http://185.236.183.118:14435
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="" tvg-logo="https://lo1.in/BR/histch.png" group-title="Canais | Documentarios",History FHD
 http://185.236.183.117:14392
 
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="" tvg-logo="https://lo1.in/BR/natgeo.png" group-title="Canais | Documentarios",NAT GEO HD
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="" tvg-logo="https://lo1.in/BR/natgeo.png" group-title="Canais | Documentarios",🔴NAT GEO HD
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/87
 
 
