@@ -1,42 +1,42 @@
 #EXTM3U
 ################## Documentarios
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="" tvg-logo="https://lo1.in/BR/disch.png" group-title="Canais | Documentarios",Discovery CHANNEL HD
+#EXTINF:-1 tvg-id="DISCOVERY HD" tvg-name="" tvg-logo="https://lo1.in/BR/disch.png" group-title="Canais | Documentarios",Discovery CHANNEL HD
 http://185.246.208.74:14144
 
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="" tvg-logo="https://lo1.in/BR/disch.png" group-title="Canais | Documentarios",Discovery CHANNEL SD
+#EXTINF:-1 tvg-id="DISCOVERY HD" tvg-name="" tvg-logo="https://lo1.in/BR/disch.png" group-title="Canais | Documentarios",Discovery CHANNEL SD
 http://185.236.183.118:14143
 
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="" tvg-logo="https://lo1.in/BR/distrb.png" group-title="Canais | Documentarios",Discovery TURBO HD
+#EXTINF:-1 tvg-id="DISCOVERY TURBO HD" tvg-name="" tvg-logo="https://lo1.in/BR/distrb.png" group-title="Canais | Documentarios",Discovery TURBO HD
 http://15.235.50.112:14097
 
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="" tvg-logo="https://lo1.in/BR/distrb.png" group-title="Canais | Documentarios",Discovery Turbo HD
+#EXTINF:-1 tvg-id="DISCOVERY TURBO HD" tvg-name="" tvg-logo="https://lo1.in/BR/distrb.png" group-title="Canais | Documentarios",Discovery Turbo HD
 http://15.235.50.112:14097
 
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="" tvg-logo="https://lo1.in/arg/hhh.png" group-title="Canais | Documentarios",Discovery H&H HD
+#EXTINF:-1 tvg-id="DISCOVERY HOME&amp;HEALTH HD" tvg-name="" tvg-logo="https://lo1.in/arg/hhh.png" group-title="Canais | Documentarios",Discovery H&H HD
 http://185.236.183.118:14146
 
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="" tvg-logo="https://lo1.in/BR/dissci.png" group-title="Canais | Documentarios",Discovery SCIENCE HD
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE HD" tvg-name="" tvg-logo="https://lo1.in/BR/dissci.png" group-title="Canais | Documentarios",Discovery SCIENCE HD
 http://15.235.50.112:14106/
 
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="" tvg-logo="https://lo1.in/BR/disinve.png" group-title="Canais | Documentarios",Discovery ID HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/BR/disinve.png" group-title="Canais | Documentarios",Discovery ID HD
 http://185.236.183.117:14440/
 
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="" tvg-logo="https://lo1.in/BR/diswrd.png" group-title="Canais | Documentarios",Discovery World HD
+#EXTINF:-1 tvg-id="DISCOVERY WORLD HD" tvg-name="" tvg-logo="https://lo1.in/BR/diswrd.png" group-title="Canais | Documentarios",Discovery World HD
 http://185.236.183.118:14165
 
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="" tvg-logo="https://lo1.in/BR/anmpl.png" group-title="Canais | Documentarios",Animal Planet HD
+#EXTINF:-1 tvg-id="ANIMAL PLANET HDr" tvg-name="" tvg-logo="https://lo1.in/BR/anmpl.png" group-title="Canais | Documentarios",Animal Planet HD
 http://185.236.183.117:14013/
 
-#EXTINF:-1 tvg-id="H2.br" tvg-name="" tvg-logo="https://lo1.in/BR/h2.png" group-title="Canais | Documentarios",H2 SD
+#EXTINF:-1 tvg-id="HISTORY2" tvg-name="" tvg-logo="https://lo1.in/BR/h2.png" group-title="Canais | Documentarios",H2 SD
 http://185.236.183.118:14391/
 
-#EXTINF:-1 tvg-id="H2.br" tvg-name="" tvg-logo="https://lo1.in/BR/h2.png" group-title="Canais | Documentarios",H2 HD
+#EXTINF:-1 tvg-id="HISTORY2" tvg-name="" tvg-logo="https://lo1.in/BR/h2.png" group-title="Canais | Documentarios",H2 HD
 http://185.236.183.118:14391/
 
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="" tvg-logo="https://lo1.in/BR/histch.png" group-title="Canais | Documentarios",History HD
+#EXTINF:-1 tvg-id="HISTORY" tvg-name="" tvg-logo="https://lo1.in/BR/histch.png" group-title="Canais | Documentarios",History HD
 http://185.236.183.118:14435
 
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="" tvg-logo="https://lo1.in/BR/histch.png" group-title="Canais | Documentarios",History FHD
+#EXTINF:-1 tvg-id="HISTORY" tvg-name="" tvg-logo="https://lo1.in/BR/histch.png" group-title="Canais | Documentarios",History FHD
 http://185.236.183.117:14392
 
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="" tvg-logo="https://lo1.in/BR/natgeo.png" group-title="Canais | Documentarios",NAT GEO HD
@@ -52,25 +52,25 @@ http://185.236.183.117:14635/
 #EXTINF:-1 tvg-id="Sony.br"" tvg-logo="https://lo1.in/BR/sny.png"" group-title="Canais | Filmes e Series", SONY MOVIES HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162318.m3u8
 
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="https://lo1.in/BR/paramch.png" group-title="Canais | Filmes e Series", PARAMOUNT FHD
+#EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-logo="https://lo1.in/BR/paramch.png" group-title="Canais | Filmes e Series", PARAMOUNT FHD
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=59205&extension=ts
 
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="https://lo1.in/BR/paramch.png" group-title="Canais | Filmes e Series", PARAMOUNT HD
+#EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-logo="https://lo1.in/BR/paramch.png" group-title="Canais | Filmes e Series", PARAMOUNT HD
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=59205&extension=ts
 
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="https://lo1.in/BR/cinmx.png" group-title="Canais | Filmes e Series", CINEMAX HD
+#EXTINF:-1 tvg-id="CINEMAX HD" tvg-logo="https://lo1.in/BR/cinmx.png" group-title="Canais | Filmes e Series", CINEMAX HD
 http://185.236.183.117:14114/
 
-#EXTINF:-1 tvg-id="Axn.br" tvg-logo="https://lo1.in/BR/axn.png" group-title="Canais | Filmes e Series", AXN HD
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://lo1.in/BR/axn.png" group-title="Canais | Filmes e Series", AXN HD
 http://79.127.238.228:14563
 
-#EXTINF:-1 tvg-id="Axn.br" tvg-logo="https://lo1.in/BR/axn.png" group-title="Canais | Filmes e Series", AXN FHD
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://lo1.in/BR/axn.png" group-title="Canais | Filmes e Series", AXN FHD
 http://185.236.183.117:14022/
 
-#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="https://lo1.in/BR/megapx.png" group-title="Canais | Filmes e Series", MEGAPIX HD
+#EXTINF:-1 tvg-id="MEGAPIX HD" tvg-logo="https://lo1.in/BR/megapx.png" group-title="Canais | Filmes e Series", MEGAPIX HD
 http://79.127.238.228:14592
 
-#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="https://lo1.in/BR/megapx.png" group-title="Canais | Filmes e Series", MEGAPIX FHD
+#EXTINF:-1 tvg-id="MEGAPIX HD" tvg-logo="https://lo1.in/BR/megapx.png" group-title="Canais | Filmes e Series", MEGAPIX FHD
 http://79.127.238.228:14592
 
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-logo="https://lo1.in/BR/lftm.png" group-title="Canais | Filmes e Series", LIFETIME HD
@@ -97,28 +97,28 @@ http://185.246.208.74:14370
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/WARNERCHANNEL.png" group-title="Canais | Filmes e Series", WARNER CHANNEL HD
 http://79.127.238.228:14647
 
-#EXTINF:-1 tvg-id="Space.br" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | Filmes e Series", SPACE HD
+#EXTINF:-1 tvg-id="SPACE HD" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | Filmes e Series", SPACE HD
 http://185.236.183.117:14640/
 
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | Filmes e Series",SPACE FHD
+#EXTINF:-1 tvg-id="SPACE HD" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | Filmes e Series",SPACE FHD
 http://185.236.183.117:14641
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/tcm,.png" group-title="Canais | Filmes e Series", TCM HD
 http://zutufo.in:80/live/889281840/Z451m1324a/740_.m3u8
 
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="https://lo1.in/BR/telcnpr.png" group-title="Canais | Filmes e Series", TELECINE PREMIUM HD
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://lo1.in/BR/telcnpr.png" group-title="Canais | Filmes e Series", TELECINE PREMIUM HD
 http://185.236.183.117:14686
 
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="https://lo1.in/BR/telact.png" group-title="Canais | Filmes e Series", TELECINE ACTION HD
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://lo1.in/BR/telact.png" group-title="Canais | Filmes e Series", TELECINE ACTION HD
 http://185.236.183.117:14676
 
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="https://lo1.in/BR/telcact.png" group-title="Canais | Filmes e Series", TELECINE ACTION FHD
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://lo1.in/BR/telcact.png" group-title="Canais | Filmes e Series", TELECINE ACTION FHD
 http://185.236.183.117:14675
 
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="https://lo1.in/BR/telpipo.png" group-title="Canais | Filmes e Series", TELECINE PIPOCA HD
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://lo1.in/BR/telpipo.png" group-title="Canais | Filmes e Series", TELECINE PIPOCA HD
 http://185.236.183.117:14684/
 
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="https://lo1.in/BR/telpipo.png" group-title="Canais | Filmes e Series", TELECINE PIPOCA FHD
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://lo1.in/BR/telpipo.png" group-title="Canais | Filmes e Series", TELECINE PIPOCA FHD
 http://185.236.183.117:14682/
 
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="https://lo1.in/BR/telcnto.png" group-title="Canais | Filmes e Series", TELECINE TOUCH HD
@@ -197,10 +197,10 @@ http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171341.m3u8
 #EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="BR| NICKELODEON HD" tvg-logo="https://lo1.in/BR/nickld.png" group-title="Canais | Infantil", NICKELODEON HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171344.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/crtnet.png" group-title="Canais | Infantil", CARTOON NETWORK HD
+#EXTINF:-1 tvg-id="CARTOON HD" tvg-logo="https://lo1.in/BR/crtnet.png" group-title="Canais | Infantil", CARTOON NETWORK HD
 http://185.236.183.118:14092
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/bomer.png" group-title="Canais | Infantil", CARTOONITO HD
+#EXTINF:-1 tvg-id="CARTOONITO" tvg-logo="https://lo1.in/BR/bomer.png" group-title="Canais | Infantil", CARTOONITO HD
 http://185.236.183.118:14096
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | Infantil", FOX KIDS HD
@@ -327,16 +327,16 @@ http://45.134.141.161:2200/BRX/24HS_Eu_a_patroa_e_as_criancas/index.m3u8
 ################# ESPORTES
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/sp.png" group-title="Canais | Esportes", SPORTV 1 HD
+#EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://lo1.in/BR/sp.png" group-title="Canais | Esportes", SPORTV 1 HD
 http://185.236.183.117:14643
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/us/LATINO%20%20ESPN%202..png" group-title="Canais | Esportes", SPORTV 2 HD
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-logo="https://lo1.in/us/LATINO%20%20ESPN%202..png" group-title="Canais | Esportes", SPORTV 2 HD
 http://185.236.183.117:14647/
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/us/LATINO%20%20ESPN%203.png" group-title="Canais | Esportes", SPORTV 3 HD
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-logo="https://lo1.in/us/LATINO%20%20ESPN%203.png" group-title="Canais | Esportes", SPORTV 3 HD
 http://185.236.183.117:14647
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/us/LATINO%20%20ESPN%203.png" group-title="Canais | Esportes", SPORTV 3 UHD
+#EXTINF:-1 tvg-id="SPORTV 4" tvg-logo="https://lo1.in/us/LATINO%20%20ESPN%203.png" group-title="Canais | Esportes", SPORTV 3 UHD
 http://185.236.183.117:14651
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/espbrs.png" group-title="Canais | Esportes", ESPN BRASIL 1 HD
@@ -357,7 +357,7 @@ http://185.236.183.118:14213
 #EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/espbrs.png" group-title="Canais | Esportes", ESPN BRASIL 6 HD
 http://185.236.183.118:14194
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/prme.png" group-title="Canais | Esportes", PREMIERE CLUBES HD
+#EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="Canais | Esportes", PREMIERE CLUBES HD
 http://185.236.183.118:14508
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/prme2.png" group-title="Canais | Esportes", PREMIERE 2 HD
