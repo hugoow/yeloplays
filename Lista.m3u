@@ -94,7 +94,7 @@ http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=59168&extensio
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | Filmes e Series", STAR CHANNEL HD
 http://185.246.208.74:14370
 
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-logo="" group-title="Canais | Filmes e Series", WARNER CHANNEL HD
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/WARNERCHANNEL.png" group-title="Canais | Filmes e Series", WARNER CHANNEL HD
 http://79.127.238.228:14647
 
 #EXTINF:-1 tvg-id="Space.br" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | Filmes e Series", SPACE HD
@@ -142,10 +142,10 @@ http://185.236.183.118:14399/
 #EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/hbom.png" group-title="Canais | Filmes e Series", HBO MAX HD
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/255
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | Filmes e Series", HBO FAMILY HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/HBOFAMILY.png" group-title="Canais | Filmes e Series", HBO FAMILY HD
 http://185.236.183.118:14403
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | Filmes e Series", HBO FAMILY FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/HBOFAMILY.png" group-title="Canais | Filmes e Series", HBO FAMILY FHD
 http://15.235.50.112:14192/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/hbopl.png" group-title="Canais | Filmes e Series", HBO PLUS HD
@@ -154,13 +154,13 @@ http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=59225&extensio
 #EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/hbopo.png" group-title="Canais | Filmes e Series", HBO POP HD
 http://185.236.183.118:14415
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | Filmes e Series", HBO MUNDI HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/HBOMUNDI.png" group-title="Canais | Filmes e Series", HBO MUNDI HD
 http://185.236.183.118:14411
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | Filmes e Series", HBO SIGNATURE HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/HBOSIGNATURE.png" group-title="Canais | Filmes e Series", HBO SIGNATURE HD
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/262
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | Filmes e Series", HBO XTREME HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/HBOXTREME.png" group-title="Canais | Filmes e Series", HBO XTREME HD
 http://themegamanx.net:80/live/889281840/Z451m1324a/18776_.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | Filmes e Series", TNT NOVELAS HD
@@ -170,7 +170,7 @@ https://lvstr.cfd/tntnovelas/index.m3u8
 ################### INFANTIL
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | Infantil", TOONCAST HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/TOONCAST.png" group-title="Canais | Infantil", TOONCAST HD
 http://944074576896333270.ofbo1005.xyz:80/live/te916733/s5K8qhhrvEM/333270.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | Infantil", KIDS CHANNEL HD
@@ -209,7 +209,7 @@ https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/diskds.png" group-title="Canais | Infantil", DISCOVERY KIDS HD
 http://185.236.183.118:14149
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | Infantil", GLOOB HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/GLOOB.png" group-title="Canais | Infantil", GLOOB HD
 http://185.236.183.117:14379
 
 
