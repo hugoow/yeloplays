@@ -34,10 +34,10 @@ http://zutufo.in:80/live/781487031/K788a6763d/2620_.m3u8
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162432.m3u8
 
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="" tvg-logo="https://lo1.in/BR/histch.png" group-title="Canais | Documentarios",History HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162440.m3u8
+http://185.236.183.118:14435
 
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="" tvg-logo="https://lo1.in/BR/histch.png" group-title="Canais | Documentarios",History FHD
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/82
+http://185.236.183.117:14392
 
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="" tvg-logo="https://lo1.in/BR/natgeo.png" group-title="Canais | Documentarios",NAT GEO HD
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/87
@@ -65,7 +65,7 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/239
 http://79.127.238.228:14563
 
 #EXTINF:-1 tvg-id="Axn.br" tvg-logo="https://lo1.in/BR/axn.png" group-title="Canais | Filmes e Series", AXN FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162307.m3u8
+http://185.236.183.117:14022/
 
 #EXTINF:-1 tvg-id="Megapix.br" tvg-logo="https://lo1.in/BR/megapx.png" group-title="Canais | Filmes e Series", MEGAPIX HD
 http://79.127.238.228:14592
@@ -110,10 +110,10 @@ http://zutufo.in:80/live/781487031/K788a6763d/707_.m3u8
 http://zutufo.in:80/live/889281840/Z451m1324a/740_.m3u8
 
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="https://lo1.in/BR/telcnpr.png" group-title="Canais | Filmes e Series", TELECINE PREMIUM HD
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/306
+http://185.236.183.118:14690
 
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="https://lo1.in/BR/telact.png" group-title="Canais | Filmes e Series", TELECINE ACTION HD
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/294
+http://185.236.183.117:14675
 
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="https://lo1.in/BR/telcact.png" group-title="Canais | Filmes e Series", TELECINE ACTION FHD
 http://185.246.208.74:14900
