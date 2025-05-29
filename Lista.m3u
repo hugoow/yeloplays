@@ -110,16 +110,16 @@ http://zutufo.in:80/live/889281840/Z451m1324a/740_.m3u8
 http://185.236.183.117:14686
 
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="https://lo1.in/BR/telact.png" group-title="Canais | Filmes e Series", TELECINE ACTION HD
-http://185.236.183.117:14675
+http://185.236.183.117:14676
 
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="https://lo1.in/BR/telcact.png" group-title="Canais | Filmes e Series", TELECINE ACTION FHD
-http://185.246.208.74:14900
+http://185.236.183.117:14675
 
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="https://lo1.in/BR/telpipo.png" group-title="Canais | Filmes e Series", TELECINE PIPOCA HD
-http://185.236.183.117:14682/
+http://185.236.183.117:14684/
 
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="https://lo1.in/BR/telpipo.png" group-title="Canais | Filmes e Series", TELECINE PIPOCA FHD
-http://185.246.208.74:14940/
+http://185.236.183.117:14682/
 
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="https://lo1.in/BR/telcnto.png" group-title="Canais | Filmes e Series", TELECINE TOUCH HD
 http://185.236.183.118:14690
