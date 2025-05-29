@@ -330,13 +330,13 @@ http://45.134.141.161:2200/BRX/24HS_Eu_a_patroa_e_as_criancas/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/sp.png" group-title="Canais | Esportes", SPORTV 1 HD
 http://185.236.183.117:14643
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/sp2.png" group-title="Canais | Esportes", SPORTV 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/us/LATINO%20%20ESPN%202..png" group-title="Canais | Esportes", SPORTV 2 HD
 http://185.236.183.117:14647/
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/sp3.png" group-title="Canais | Esportes", SPORTV 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/us/LATINO%20%20ESPN%203.png" group-title="Canais | Esportes", SPORTV 3 HD
 http://185.236.183.117:14647
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/sp3.png" group-title="Canais | Esportes", SPORTV 3 UHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/us/LATINO%20%20ESPN%203.png" group-title="Canais | Esportes", SPORTV 3 UHD
 http://185.236.183.117:14651
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/espbrs.png" group-title="Canais | Esportes", ESPN BRASIL 1 HD
