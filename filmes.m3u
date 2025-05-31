@@ -1,39 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6fGJEtw.png" group-title="Série | SINTONIA S05",S05 E01
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/78074/5x1.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6fGJEtw.png" group-title="Série | SINTONIA S05",S05 E02
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/78074/5x2.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6fGJEtw.png" group-title="Série | SINTONIA S05",S05 E03
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/78074/5x3.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6fGJEtw.png" group-title="Série | SINTONIA S05",S05 E04
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/78074/5x4.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6fGJEtw.png" group-title="Série | SINTONIA S05",S05 E05
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/78074/5x5.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6fGJEtw.png" group-title="Série | SINTONIA S05",S05 E06
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/78074/5x6.mp4
-
-EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Cão de Briga
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt22489042.mp4
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",A Nova Geração da Máfia
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt9010322.mp4
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Invasão U.S.A.
-http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34t345/FHD10/tt0089348.mp4
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Capitão América: Admirável Mundo Novo
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt14513804.mp4
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Guarda Costas e Assassinos
-http://hd5.oneplayer.site/FHD5/tt1403130.mp4
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",O Auto da Compadecida 2
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt28696532.mp4
 
 #EXTINF:-1 tvg-name="Divertida Mente 2 (2024) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGvz7nlGQeePcVOpAzOcHsC7kRt.jpg" group-title="Filmes | 4K",Divertida Mente 2 (2024) 4K
 http://tvhdbalck.pro:80/movie/090720634/959666174/4929294.mp4
@@ -41,11 +9,189 @@ http://tvhdbalck.pro:80/movie/090720634/959666174/4929294.mp4
 #EXTINF:-1 tvg-name="Divertida Mente 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9h2KgGXSmWigNTn3kQdEFFngj9i.jpg" group-title="Filmes | Lançamentos 2024",Divertida Mente 2 (2024)
 http://tvhdbalck.pro:80/movie/090720634/959666174/4929322.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Sonic 3
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt18259086.mp4
+#EXTINF:-1 tvg-name="Sonic 3: O Filme (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HzA55GCjRTEC2YhPGna8Lc8qHo.jpg" group-title="Filmes | Lançamentos 2024",Sonic 3: O Filme (2024)
+http://tvhdbalck.pro:80/movie/090720634/959666174/4927431.mp4
+
+#EXTINF:-1 tvg-name="Sonic 3 - O Filme (2024) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HzA55GCjRTEC2YhPGna8Lc8qHo.jpg" group-title="Filmes | 4K",Sonic 3 - O Filme (2024) 4K
+http://tvhdbalck.pro:80/movie/090720634/959666174/4927416.mp4
 
 #EXTINF:-1 tvg-name="Straight Outta Compton: A História do N.W.A. (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTQ6reig71j3gt351d04TOi8mtL.jpg" group-title="FILMES DRAMA",Straight Outta Compton: A História do N.W.A. (2015)
 http://cdn.pthdtv.top:80/movie/090720634/959666174/4120025.mp4
 
 #EXTINF:-1 tvg-name="Racionais: Das Ruas de São Paulo Pro Mundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRsRonH875t4CU7wFpDCqCPQ9Qz.jpg" group-title="Filmes | Documentarios",Racionais: Das Ruas de São Paulo Pro Mundo (2022)
 http://tvhdbalck.pro:80/movie/090720634/959666174/4929165.mp4
+
+
+
+
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdanXbFmeD9kdQ6XNTdrKUkNDmU.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S01E01
+http://tvhdbalck.pro:80/series/090720634/959666174/4952579.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9e17jiaO8BihsendSvSVpC6D1uR.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S01E02
+http://tvhdbalck.pro:80/series/090720634/959666174/4952580.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o57KbgV5TDKCMmxEHVNnWFqIycM.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S01E03
+http://tvhdbalck.pro:80/series/090720634/959666174/4952581.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRyHz2G6cV1wuwRGskOyE31wp1v.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S01E04
+http://tvhdbalck.pro:80/series/090720634/959666174/4952582.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/og0nCOem2TSGX16fQl8cjiy4JOe.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S01E05
+http://tvhdbalck.pro:80/series/090720634/959666174/4952583.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBgCheYpdoP51VUdD4XeZ1y5KWJ.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S01E06
+http://tvhdbalck.pro:80/series/090720634/959666174/4952584.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFnNm44mlhShh7c07Gzk7j8Si9l.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S01E07
+http://tvhdbalck.pro:80/series/090720634/959666174/4952585.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xSxvwfJTbIxZLlTL3ISaqn4F4Ut.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S01E08
+http://tvhdbalck.pro:80/series/090720634/959666174/4952586.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/paeKQn9QeaMvFzSSBR1tGHdidAV.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S01E09
+http://tvhdbalck.pro:80/series/090720634/959666174/4952587.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ry3UPnV9c7qFSfesvq12p6qT8L.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S01E10
+http://tvhdbalck.pro:80/series/090720634/959666174/4952588.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3OkkE2jSgqqhmCj8FIVJDDDuGC.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S01E11
+http://tvhdbalck.pro:80/series/090720634/959666174/4952589.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HNtYeGoqdAXZh0fKIkbphPHlN5.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S01E12
+http://tvhdbalck.pro:80/series/090720634/959666174/4952590.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S01E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPJgTETJIM2gGjQBdwH6i4Zccnq.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S01E13
+http://tvhdbalck.pro:80/series/090720634/959666174/4952591.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S01E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5yEJOGe2b9KDzb94PRd9xdwvMN.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S01E14
+http://tvhdbalck.pro:80/series/090720634/959666174/4952592.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S01E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GqfHtq5E8w8dKekD1B27CDL5m.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S01E15
+http://tvhdbalck.pro:80/series/090720634/959666174/4952593.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S01E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjbwpttSwnj6ObBMyz6hmxfshDn.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S01E16
+http://tvhdbalck.pro:80/series/090720634/959666174/4952594.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S01E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDnAZRu44XtHejwfbYVUu4IzDr.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S01E17
+http://tvhdbalck.pro:80/series/090720634/959666174/4952595.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S01E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPq4WcEG6sa1CX3VowVD1jXVV3z.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S01E18
+http://tvhdbalck.pro:80/series/090720634/959666174/4952596.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S01E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/or9cjkwvrSW7B1HvQmlkSi66YMi.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S01E19
+http://tvhdbalck.pro:80/series/090720634/959666174/4952597.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S01E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1VR84pLvOgD0lO6GUQKygTsaPST.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S01E20
+http://tvhdbalck.pro:80/series/090720634/959666174/4952598.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S02E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6DUpMpPgKH5TsPVWRii7IEj1Wq.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S02E01
+http://tvhdbalck.pro:80/series/090720634/959666174/4952599.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S02E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5O0HnQ96hGbwMxKrIJg8CwJHz7E.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S02E02
+http://tvhdbalck.pro:80/series/090720634/959666174/4952600.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S02E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e51f1OYEgGvxRQIXakITV78gyDw.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S02E03
+http://tvhdbalck.pro:80/series/090720634/959666174/4952601.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S02E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hXSXAVxuVXPhCxFm8pIPSSkYsd.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S02E04
+http://tvhdbalck.pro:80/series/090720634/959666174/4952602.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S02E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOkP6Y4IL1yQPdmV9AEZ9AURO4v.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S02E05
+http://tvhdbalck.pro:80/series/090720634/959666174/4952603.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S02E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9pAM7rmLqjmghcWxgduhRegyvK.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S02E06
+http://tvhdbalck.pro:80/series/090720634/959666174/4952604.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S02E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NNlfwmAu1HSss3WrgDhwO1LisU.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S02E07
+http://tvhdbalck.pro:80/series/090720634/959666174/4952605.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S02E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFaMOl7rw3E6Wbu3jhc3z6zOsht.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S02E08
+http://tvhdbalck.pro:80/series/090720634/959666174/4952606.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S02E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnuJLHlZIib8JJQPOEs2ueKG7sh.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S02E09
+http://tvhdbalck.pro:80/series/090720634/959666174/4952607.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S02E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmVE3qPoTp7UG1OFL02Exv4nuwP.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S02E10
+http://tvhdbalck.pro:80/series/090720634/959666174/4952608.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S02E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmNpXBe4Zs6OTnvTmjiHA3CIWDd.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S02E11
+http://tvhdbalck.pro:80/series/090720634/959666174/4952609.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S02E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6gHbBsSypA1kOg3CMDE3EdViHx.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S02E12
+http://tvhdbalck.pro:80/series/090720634/959666174/4952610.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S02E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWRZtBWCKGQszBkUo8U4aD9ict.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S02E13
+http://tvhdbalck.pro:80/series/090720634/959666174/4952611.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S02E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ESTJuUKxSNjiC2dPsnTHLAQo1F.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S02E14
+http://tvhdbalck.pro:80/series/090720634/959666174/4952612.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S02E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llHcvIrufxO52QpHMjNe11HpF4W.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S02E15
+http://tvhdbalck.pro:80/series/090720634/959666174/4952613.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S02E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnE2GuA5TQxoSlkOYO3SD9xhgZ4.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S02E16
+http://tvhdbalck.pro:80/series/090720634/959666174/4952614.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S02E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kBBBaocf6GqowVRjrVYLGATFgL.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S02E17
+http://tvhdbalck.pro:80/series/090720634/959666174/4952615.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S02E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a4v7uSSLkPIbp2NJ6lqmYeKkX6z.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S02E18
+http://tvhdbalck.pro:80/series/090720634/959666174/4952616.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S02E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWsQhzQSTihitZIEGexqCtzGKiX.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S02E19
+http://tvhdbalck.pro:80/series/090720634/959666174/4952617.mp4
+#EXTINF:-1 tvg-name="Gravity Falls: Um Verão de Mistérios S02E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDAyQ7r1DxTMVKNSZLSd10CUZUJ.jpg" group-title="Séries | Disney +",Gravity Falls: Um Verão de Mistérios S02E20
+http://tvhdbalck.pro:80/series/090720634/959666174/4952618.mp4
+
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNjAsSqeyTrYYkvmySOQJMTmi1G.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S01E01
+http://tvhdbalck.pro:80/series/090720634/959666174/5029830.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjM4hZGeTSG1ckxWa91DBUIWD5S.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S01E02
+http://tvhdbalck.pro:80/series/090720634/959666174/5029831.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXTn6GbzIWcHBas0jQNOvJMofZN.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S01E03
+http://tvhdbalck.pro:80/series/090720634/959666174/5029832.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nRIQc1kKfS5RTkLeVQYJauW3QU.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S01E04
+http://tvhdbalck.pro:80/series/090720634/959666174/5029833.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h3MJRJQRdCTsDWEOUzpatZqwkIR.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S01E05
+http://tvhdbalck.pro:80/series/090720634/959666174/5029834.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RjEUBkw9Xnsq8doMw9K2NnRmsX.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S01E06
+http://tvhdbalck.pro:80/series/090720634/959666174/5029835.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Ap8xEHmk9rJ5DqN6c9enca7sVP.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S01E07
+http://tvhdbalck.pro:80/series/090720634/959666174/5029836.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/enAcz1ZXfA7ZAx55GXzpTbmy44d.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S01E08
+http://tvhdbalck.pro:80/series/090720634/959666174/5029837.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rwNfpYvGGyZIC9dQKP2fzbeCt8.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S01E09
+http://tvhdbalck.pro:80/series/090720634/959666174/5029838.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7fYUtjRBiuCSLNaodHnZbb8Yvy.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S01E10
+http://tvhdbalck.pro:80/series/090720634/959666174/5029839.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S02E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/stlEmvySIVbpndRp1dH6wx57sx4.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S02E01
+http://tvhdbalck.pro:80/series/090720634/959666174/5029840.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S02E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/krcZKQOF095e1FCPWQzTwrtRO0v.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S02E02
+http://tvhdbalck.pro:80/series/090720634/959666174/5029841.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S02E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSKjRqP0nfBjS1rP4OOT2wWhgYN.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S02E03
+http://tvhdbalck.pro:80/series/090720634/959666174/5029842.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S02E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vawQQd6XOlllMZXrr6J05hPTwj.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S02E04
+http://tvhdbalck.pro:80/series/090720634/959666174/5029843.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S02E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxlfZiBHYoX3QFfoMiYV2U5VuPM.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S02E05
+http://tvhdbalck.pro:80/series/090720634/959666174/5029844.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S02E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRHPHyhAjy6EDdg5TrMwtw1fNuc.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S02E06
+http://tvhdbalck.pro:80/series/090720634/959666174/5029845.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S02E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvvFhZsUqgxf2FqzJLyCNqnewaC.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S02E07
+http://tvhdbalck.pro:80/series/090720634/959666174/5029846.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S02E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YfhnDVZDjd4UGGjRupDVBsYxmJ.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S02E08
+http://tvhdbalck.pro:80/series/090720634/959666174/5029847.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S02E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBmYAbymsicnZM5r1LLZvm2uomY.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S02E09
+http://tvhdbalck.pro:80/series/090720634/959666174/5029848.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S02E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lC6CqL386ntGwi6jkJCTHPtnrYS.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S02E10
+http://tvhdbalck.pro:80/series/090720634/959666174/5029849.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S02E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJh2GC7fyIQv8V3MYVoVLcUjeIT.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S02E11
+http://tvhdbalck.pro:80/series/090720634/959666174/5029850.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S02E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7NrD48ezLy8jBhyQid3Xd32xS9.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S02E12
+http://tvhdbalck.pro:80/series/090720634/959666174/5029851.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S03E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZvIFsT3GFHjaiZ7JLaDD7co5F3.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S03E01
+http://tvhdbalck.pro:80/series/090720634/959666174/5029852.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S03E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2Ktv1CgT8UZif5rENxBf395qSN.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S03E02
+http://tvhdbalck.pro:80/series/090720634/959666174/5029853.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S03E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPZAfgWRP0RxNHw6cE3eEr1knRB.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S03E03
+http://tvhdbalck.pro:80/series/090720634/959666174/5029854.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S03E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2lU9BoMU44ggA6GlayiPKdBrbU.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S03E04
+http://tvhdbalck.pro:80/series/090720634/959666174/5029855.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S03E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6ZSWEtw37SiULhw96BBNq7iwTb.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S03E05
+http://tvhdbalck.pro:80/series/090720634/959666174/5029856.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S03E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrQbrrQBARKHClODO8bH8gDxBwW.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S03E06
+http://tvhdbalck.pro:80/series/090720634/959666174/5029857.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S03E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82uEJqvH6FbiqipG9IYztePMRbO.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S03E07
+http://tvhdbalck.pro:80/series/090720634/959666174/5029858.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S03E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlpJLbBqQKhVepnAuFxaK9h8cJd.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S03E08
+http://tvhdbalck.pro:80/series/090720634/959666174/5029859.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S03E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lE50225dvp4QkSCMs7OasuPCqep.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S03E09
+http://tvhdbalck.pro:80/series/090720634/959666174/5029860.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S03E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8khPwW6y7737YAJwfdzcFhpAUy.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S03E10
+http://tvhdbalck.pro:80/series/090720634/959666174/5029861.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S04E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n97iv8wyYGIPIlopX9Ac2XeLkHm.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S04E01
+http://tvhdbalck.pro:80/series/090720634/959666174/5029862.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S04E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cS3HczysMAZ2FY2sR75eu5UIrQA.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S04E02
+http://tvhdbalck.pro:80/series/090720634/959666174/5029863.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S04E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqY41dxEhrP8eAadjXJP7yHRV20.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S04E03
+http://tvhdbalck.pro:80/series/090720634/959666174/5029864.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S04E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wb8zbWEBtTlSpd0zvJhZ0qDWTXe.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S04E04
+http://tvhdbalck.pro:80/series/090720634/959666174/5029865.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S04E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npveuBuAJ59XxBa63VJVwD3h8nC.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S04E05
+http://tvhdbalck.pro:80/series/090720634/959666174/5029866.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S04E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3E7JUyz5TmCKFZ6vsyatzZMEkD.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S04E06
+http://tvhdbalck.pro:80/series/090720634/959666174/5029867.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S04E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yurkCtdbSPlI6qoeyYlgqG0R5cN.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S04E07
+http://tvhdbalck.pro:80/series/090720634/959666174/5029868.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S04E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7mGpRE4Ngzm44syAz4j8IjlGlk.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S04E08
+http://tvhdbalck.pro:80/series/090720634/959666174/5029869.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S04E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYznCs8h44uERN0NDUed1WESYb.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S04E09
+http://tvhdbalck.pro:80/series/090720634/959666174/5029870.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S04E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKYzhJ5uPwRMBc17b2nK1CYVRhs.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S04E10
+http://tvhdbalck.pro:80/series/090720634/959666174/5029871.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S04E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfaDACXAgCQ3hJ9anRZldWzS4H8.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S04E11
+http://tvhdbalck.pro:80/series/090720634/959666174/5029872.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S04E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dASAGrbEmsiGyzbtwgkq02NanlM.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S04E12
+http://tvhdbalck.pro:80/series/090720634/959666174/5029873.mp4
+#EXTINF:-1 tvg-name="Mr. Robot (2015) S04E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnD5umHZG1DCJjEU1xbwM9Fne0G.jpg" group-title="Séries | Globoplay",Mr. Robot (2015) S04E13
+http://tvhdbalck.pro:80/series/090720634/959666174/5029874.mp4
