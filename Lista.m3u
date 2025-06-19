@@ -31,13 +31,13 @@ https://aipapai.shop/_temp/animalplanet.m3u8
 https://aipapai.shop/_temp/history2.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY2" tvg-name="" tvg-logo="https://lo1.in/BR/h2.png" group-title="Canais | Documentarios",H2 HD
-http://185.236.183.118:14391/
+http://185.236.183.117:14391
 
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="" tvg-logo="https://lo1.in/BR/histch.png" group-title="Canais | Documentarios",History HD
 https://aipapai.shop/_temp/history.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="" tvg-logo="https://lo1.in/BR/histch.png" group-title="Canais | Documentarios",History FHD
-http://185.236.183.117:14392
+http://185.236.183.117:14434
 
 ################## FILMES E SERIES
 
@@ -134,19 +134,19 @@ http://185.236.183.117:14679/
 http://185.236.183.118:14695/
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://lo1.in/BR/hbo.png" group-title="Canais | Filmes e Series", HBO HD
-http://15.235.50.112:14186/
+http://185.236.183.117:14186
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://lo1.in/BR/hbo.png" group-title="Canais | Filmes e Series", HBO FHD
-http://185.236.183.118:14395/
+http://185.236.183.117:14395
 
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://lo1.in/BR/hbo.png" group-title="Canais | Filmes e Series", HBO 2 HD
-http://185.236.183.118:14399/
+http://185.236.183.117:14399
 
 #EXTINF:-1 tvg-id="HBO Max" tvg-logo="https://lo1.in/BR/hbom.png" group-title="Canais | Filmes e Series", HBO MAX HD
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/255
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/HBOFAMILY.png" group-title="Canais | Filmes e Series", HBO FAMILY HD
-http://185.236.183.118:14403
+http://185.236.183.117:14404
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/HBOFAMILY.png" group-title="Canais | Filmes e Series", HBO FAMILY FHD
 http://15.235.50.112:14192/
@@ -154,11 +154,14 @@ http://15.235.50.112:14192/
 #EXTINF:-1 tvg-id="HBO+" tvg-logo="https://lo1.in/BR/hbopl.png" group-title="Canais | Filmes e Series", HBO PLUS HD
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=59225&extension=ts
 
+#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://lo1.in/BR/hbopl.png" group-title="Canais | Filmes e Series", HBO PLUS FHD
+http://185.236.183.117:14407
+
 #EXTINF:-1 tvg-id="HBO Pop" tvg-logo="https://lo1.in/BR/hbopo.png" group-title="Canais | Filmes e Series", HBO POP HD
 http://185.236.183.118:14417
 
 #EXTINF:-1 tvg-id="HBO Mundi" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/HBOMUNDI.png" group-title="Canais | Filmes e Series", HBO MUNDI HD
-http://185.236.183.118:14411
+http://185.236.183.117:14410
 
 #EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/HBOSIGNATURE.png" group-title="Canais | Filmes e Series", HBO SIGNATURE HD
 http://185.236.183.118:14419
@@ -186,7 +189,7 @@ https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171343.m3u8
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="BR| NICK JR HD" tvg-logo="https://lo1.in/BR/nickjr.png" group-title="Canais | Infantil", NICK JR HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171341.m3u8
+http://185.236.183.117:14480
 
 #EXTINF:-1 tvg-id="NICKELODEON HD" tvg-name="BR| NICKELODEON HD" tvg-logo="https://lo1.in/BR/nickld.png" group-title="Canais | Infantil", NICKELODEON HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171344.m3u8
@@ -355,6 +358,8 @@ http://38.114.123.112:14408
 
 #EXTINF:-1 tvg-id="SPORTV 2" tvg-logo="https://lo1.in/BR/spt2.png" group-title="Canais | Esportes", SPORTV 2 HD
 https://aipapai.shop/_temp/sportv2.m3u8
+
+
 
 #EXTINF:-1 tvg-id="SPORTV 3" tvg-logo="https://lo1.in/BR/spt3.png" group-title="Canais | Esportes", SPORTV 3 HD
 https://aipapai.shop/_temp/sportv3.m3u8
