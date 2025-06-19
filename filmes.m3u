@@ -1,7 +1,8 @@
 #EXTM3U
 
 
-
+#EXTINF:-1 tvg-id="BR - Cultura" tvg-name="TV CULTURA [FHD][H265]" tvg-logo="http://cc90.one/ONS" group-title="Canais | Abertos",TV CULTURA [FHD][H265]
+http://pfsv.io:80/Vinaocore/vinao123./30183.ts
 
 #EXTINF:-1 tvg-name="Divertida Mente 2 (2024) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGvz7nlGQeePcVOpAzOcHsC7kRt.jpg" group-title="Filmes | 4K",Divertida Mente 2 (2024) 4K
 http://pfsv.io:80/movie/Vinaocore/vinao123./241416.mp4
@@ -9,8 +10,6 @@ http://pfsv.io:80/movie/Vinaocore/vinao123./241416.mp4
 #EXTINF:-1 tvg-name="Divertida Mente 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9h2KgGXSmWigNTn3kQdEFFngj9i.jpg" group-title="Filmes | Lançamentos 2024",Divertida Mente 2 (2024)
 http://pfsv.io:80/movie/Vinaocore/vinao123./241415.mp4
 
-#EXTINF:-1 tvg-name="Divertida Mente 2 (2024)2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9h2KgGXSmWigNTn3kQdEFFngj9i.jpg" group-title="Filmes | Lançamentos 2024",Divertida Mente 2 2 (2024)
-http://trabalho724.top:8080/movie/daysemaria/oliveira20249747/339565.mp4
 
 #EXTINF:-1 tvg-name="Sonic 3: O Filme (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HzA55GCjRTEC2YhPGna8Lc8qHo.jpg" group-title="Filmes | Lançamentos 2024",Sonic 3: O Filme (2024)
 http://pfsv.io:80/movie/Vinaocore/vinao123./282268.mp4
