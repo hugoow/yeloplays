@@ -4,7 +4,7 @@
 http://185.246.208.74:14144
 
 #EXTINF:-1 tvg-id="DISCOVERY HD" tvg-name="" tvg-logo="https://lo1.in/BR/disch.png" group-title="Canais | Documentarios",Discovery CHANNEL SD
-http://185.236.183.118:14143
+https://aipapai.shop/_temp/discoverychannel.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY TURBO HD" tvg-name="" tvg-logo="https://lo1.in/BR/distrb.png" group-title="Canais | Documentarios",Discovery TURBO HD
 http://15.235.50.112:14097
@@ -25,16 +25,16 @@ http://185.236.183.117:14440/
 http://185.236.183.118:14165
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-name="" tvg-logo="https://lo1.in/BR/anmpl.png" group-title="Canais | Documentarios",Animal Planet HD
-http://185.236.183.117:14013/
+https://aipapai.shop/_temp/animalplanet.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY2" tvg-name="" tvg-logo="https://lo1.in/BR/h2.png" group-title="Canais | Documentarios",H2 SD
-http://185.236.183.118:14391/
+https://aipapai.shop/_temp/history2.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY2" tvg-name="" tvg-logo="https://lo1.in/BR/h2.png" group-title="Canais | Documentarios",H2 HD
 http://185.236.183.118:14391/
 
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="" tvg-logo="https://lo1.in/BR/histch.png" group-title="Canais | Documentarios",History HD
-http://185.236.183.118:14435
+https://aipapai.shop/_temp/history.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="" tvg-logo="https://lo1.in/BR/histch.png" group-title="Canais | Documentarios",History FHD
 http://185.236.183.117:14392
@@ -55,13 +55,13 @@ http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=59205&extensio
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=59205&extension=ts
 
 #EXTINF:-1 tvg-id="CINEMAX HD" tvg-logo="https://lo1.in/BR/cinmx.png" group-title="Canais | Filmes e Series", CINEMAX HD
-http://185.236.183.117:14114/
+https://aipapai.shop/_temp/cinemax.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://lo1.in/BR/axn.png" group-title="Canais | Filmes e Series", AXN HD
 http://79.127.238.228:14563
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://lo1.in/BR/axn.png" group-title="Canais | Filmes e Series", AXN FHD
-http://185.236.183.117:14022/
+https://aipapai.shop/_temp/axn.m3u8
 
 #EXTINF:-1 tvg-id="MEGAPIX HD" tvg-logo="https://lo1.in/BR/megapx.png" group-title="Canais | Filmes e Series", MEGAPIX HD
 http://79.127.238.228:14592
@@ -99,7 +99,7 @@ http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=59168&extensio
 http://79.127.238.228:14647
 
 #EXTINF:-1 tvg-id="SPACE HD" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | Filmes e Series", SPACE HD
-http://185.236.183.117:14640/
+https://aipapai.shop/_temp/space.m3u8
 
 #EXTINF:-1 tvg-id="SPACE HD" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | Filmes e Series",SPACE FHD
 http://185.236.183.117:14641
@@ -111,19 +111,19 @@ http://185.236.183.117:14670
 https://aipapai.shop/_temp/telecinepremium.m3u8
 
 #EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://lo1.in/BR/telact.png" group-title="Canais | Filmes e Series", TELECINE ACTION HD
-http://185.236.183.117:14676
+https://aipapai.shop/_temp/telecineaction.m3u8
 
 #EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://lo1.in/BR/telact.png" group-title="Canais | Filmes e Series", TELECINE ACTION FHD
 https://aipapai.shop/_temp/telecineaction.m3u8
 
 #EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://lo1.in/BR/telpipo.png" group-title="Canais | Filmes e Series", TELECINE PIPOCA HD
-http://185.236.183.117:14684/
+https://aipapai.shop/_temp/telecinepipoca.m3u8
 
 #EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://lo1.in/BR/telpipo.png" group-title="Canais | Filmes e Series", TELECINE PIPOCA FHD
-http://185.236.183.117:14682/
+https://aipapai.shop/_temp/telecinepipoca.m3u8
 
 #EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://lo1.in/BR/telcnto.png" group-title="Canais | Filmes e Series", TELECINE TOUCH HD
-http://185.236.183.118:14690
+https://aipapai.shop/_temp/telecinetouch.m3u8
 
 #EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://lo1.in/BR/telcef.png" group-title="Canais | Filmes e Series", TELECINE FUN HD
 http://185.236.183.117:14679/
@@ -356,7 +356,7 @@ http://185.236.183.118:14194
 https://aipapai.shop/_temp/premiere.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/prme2.png" group-title="Canais | Esportes", PREMIERE 2 HD
-http://185.236.183.118:14512
+https://aipapai.shop/_temp/premiere2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/prme3.png" group-title="Canais | Esportes", PREMIERE 3 HD
 http://185.236.183.118:14516
