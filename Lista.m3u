@@ -41,6 +41,8 @@ http://185.236.183.117:14392
 
 ################## FILMES E SERIES
 
+#EXTINF:-1 tvg-id="A_E"" tvg-logo="https://lo1.in/BR/ane.png"" group-title="Canais | Filmes e Series", A&E HD
+http://79.127.238.228:14551/
 
 #EXTINF:-1 tvg-id="SONY CHANNEL"" tvg-logo="https://lo1.in/BR/sny.png"" group-title="Canais | Filmes e Series", SONY CHANNEL HD
 http://185.236.183.117:14635/
