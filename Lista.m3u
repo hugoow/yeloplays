@@ -4,7 +4,7 @@
 http://185.246.208.74:14144
 
 #EXTINF:-1 tvg-id="DISCOVERY HD" tvg-name="" tvg-logo="https://lo1.in/BR/disch.png" group-title="Canais | Documentarios",Discovery CHANNEL SD
-https://aipapai.shop/_temp/discoverychannel.m3u8
+http://185.236.183.118:14013
 
 #EXTINF:-1 tvg-id="DISCOVERY TURBO HD" tvg-name="" tvg-logo="https://lo1.in/BR/distrb.png" group-title="Canais | Documentarios",Discovery TURBO HD
 http://15.235.50.112:14097
@@ -57,13 +57,13 @@ http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=59205&extensio
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=59205&extension=ts
 
 #EXTINF:-1 tvg-id="CINEMAX HD" tvg-logo="https://lo1.in/BR/cinmx.png" group-title="Canais | Filmes e Series", CINEMAX HD
-https://aipapai.shop/_temp/cinemax.m3u8
+http://185.236.183.118:14113
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://lo1.in/BR/axn.png" group-title="Canais | Filmes e Series", AXN HD
 http://79.127.238.228:14563
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://lo1.in/BR/axn.png" group-title="Canais | Filmes e Series", AXN FHD
-https://aipapai.shop/_temp/axn.m3u8
+http://185.236.183.118:14020
 
 #EXTINF:-1 tvg-id="MEGAPIX HD" tvg-logo="https://lo1.in/BR/megapx.png" group-title="Canais | Filmes e Series", MEGAPIX HD
 http://79.127.238.228:14592
@@ -155,13 +155,13 @@ http://15.235.50.112:14192/
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=59225&extension=ts
 
 #EXTINF:-1 tvg-id="HBO Pop" tvg-logo="https://lo1.in/BR/hbopo.png" group-title="Canais | Filmes e Series", HBO POP HD
-http://185.236.183.118:14415
+http://185.236.183.118:14417
 
 #EXTINF:-1 tvg-id="HBO Mundi" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/HBOMUNDI.png" group-title="Canais | Filmes e Series", HBO MUNDI HD
 http://185.236.183.118:14411
 
 #EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/HBOSIGNATURE.png" group-title="Canais | Filmes e Series", HBO SIGNATURE HD
-http://185.236.183.116:17418
+http://185.236.183.118:14419
 
 #EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/HBOXTREME.png" group-title="Canais | Filmes e Series", HBO XTREME HD
 http://185.236.183.116:17423
