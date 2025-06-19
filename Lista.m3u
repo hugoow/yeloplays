@@ -248,6 +248,7 @@ http://15.235.9.200:14893
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Infantil",🔴Poderoso Chefinho 24h
 
+
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Infantil",Familia Dinossauro 24h
 http://15.235.9.200:14912
 
@@ -272,6 +273,9 @@ http://15.235.9.200:14879
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Infantil",🔴Tom & Jerry 24h
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Infantil",Gato de Botas 24h
+http://15.235.9.200:14932
+
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Infantil",Scoobdoo 24h
 http://15.235.9.200:14978/
 
@@ -283,6 +287,9 @@ http://15.235.9.200:14984
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Infantil",Os Simpsons 2 24h
 http://24hrs.homelinux.com:8080/24H-ossimpsons/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Infantil",Futurama 24h
+http://15.235.9.200:14924
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Infantil",X-Men Evolution 24h
 
@@ -298,6 +305,11 @@ http://15.235.9.200:14913
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Infantil",Os Flistony 24h
 http://15.235.9.200:14979/
+
+################# VARIEDADES
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Variedades",Fatos Desconhecidos 24h
+http://15.235.9.200:14915
 
 ################# COMEDIA
 
@@ -316,8 +328,8 @@ http://15.235.9.200:14040
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",🔴Pegadinhas Silvio Santos 24h
  
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",🔴As Visões da Raven 24h
-
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",Gerson Albuquerque 24h
+http://15.235.9.200:14935
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",A Grande Família 24h
 
