@@ -350,14 +350,20 @@ http://15.235.9.200:14908/
 ################# ESPORTES
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/sp.png" group-title="Canais | Esportes", CAZE TV 1 HD
+http://45.134.141.162:3366/stream/cazetv/event1/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/sp.png" group-title="Canais | Esportes", CAZE TV 2 HD
+http://185.236.183.117:14059
+
 #EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://lo1.in/BR/sp.png" group-title="Canais | Esportes", SPORTV 1 HD
-https://aipapai.shop/_temp/sportv.m3u8
+http://sv1.casahd.com:80/carlinhos/carlinhos/1361479
 
 #EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://lo1.in/BR/sp.png" group-title="Canais | Esportes", SPORTV 1 FHD
 http://38.114.123.112:14408
 
 #EXTINF:-1 tvg-id="SPORTV 2" tvg-logo="https://lo1.in/BR/spt2.png" group-title="Canais | Esportes", SPORTV 2 HD
-https://aipapai.shop/_temp/sportv2.m3u8
+https://cr7v.short.gy/Canal1/index.m3u8
 
 
 
