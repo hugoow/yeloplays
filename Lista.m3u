@@ -51,7 +51,7 @@ http://185.236.183.117:14635/
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162318.m3u8
 
 #EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-logo="https://lo1.in/BR/paramch.png" group-title="Canais | Filmes e Series", PARAMOUNT FHD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=59205&extension=ts
+http://185.236.183.117:14497
 
 #EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-logo="https://lo1.in/BR/paramch.png" group-title="Canais | Filmes e Series", PARAMOUNT HD
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=59205&extension=ts
@@ -110,28 +110,28 @@ http://185.236.183.117:14641
 http://185.236.183.117:14670
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://lo1.in/BR/telcnpr.png" group-title="Canais | Filmes e Series", TELECINE PREMIUM HD
-https://aipapai.shop/_temp/telecinepremium.m3u8
+http://15.235.50.115:14008
 
 #EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://lo1.in/BR/telact.png" group-title="Canais | Filmes e Series", TELECINE ACTION HD
-https://aipapai.shop/_temp/telecineaction.m3u8
+http://185.236.183.117:14674
 
 #EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://lo1.in/BR/telact.png" group-title="Canais | Filmes e Series", TELECINE ACTION FHD
-https://aipapai.shop/_temp/telecineaction.m3u8
+http://185.236.183.117:14674
 
 #EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://lo1.in/BR/telpipo.png" group-title="Canais | Filmes e Series", TELECINE PIPOCA HD
-https://aipapai.shop/_temp/telecinepipoca.m3u8
+http://15.235.50.115:14005
 
 #EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://lo1.in/BR/telpipo.png" group-title="Canais | Filmes e Series", TELECINE PIPOCA FHD
-https://aipapai.shop/_temp/telecinepipoca.m3u8
+http://15.235.50.115:14005
 
 #EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://lo1.in/BR/telcnto.png" group-title="Canais | Filmes e Series", TELECINE TOUCH HD
-https://aipapai.shop/_temp/telecinetouch.m3u8
+http://185.236.183.117:14691/
 
 #EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://lo1.in/BR/telcef.png" group-title="Canais | Filmes e Series", TELECINE FUN HD
 http://185.236.183.117:14679/
 
 #EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://lo1.in/BR/telcu.png" group-title="Canais | Filmes e Series", TELECINE CULT HD
-http://185.236.183.118:14695/
+http://185.236.183.117:14695
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://lo1.in/BR/hbo.png" group-title="Canais | Filmes e Series", HBO HD
 http://185.236.183.117:14186
@@ -386,7 +386,7 @@ http://185.236.183.118:14213
 http://185.236.183.118:14194
 
 #EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="Canais | Esportes", PREMIERE CLUBES HD
-https://aipapai.shop/_temp/premiere.m3u8
+http://185.246.208.74:14882
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/prme2.png" group-title="Canais | Esportes", PREMIERE 2 HD
 https://aipapai.shop/_temp/premiere2.m3u8
