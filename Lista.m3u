@@ -1,10 +1,10 @@
 #EXTM3U
 ################## Documentarios
 #EXTINF:-1 tvg-id="DISCOVERY HD" tvg-name="" tvg-logo="https://lo1.in/BR/disch.png" group-title="Canais | Documentarios",Discovery CHANNEL HD
-http://185.246.208.74:14144
+http://148.113.160.48:14142
 
 #EXTINF:-1 tvg-id="DISCOVERY HD" tvg-name="" tvg-logo="https://lo1.in/BR/disch.png" group-title="Canais | Documentarios",Discovery CHANNEL SD
-https://o5uftzrqlf.o5uftzrqlf.workers.dev/discoverychannel/index.m3u8
+http://148.113.160.48:14142
 
 #EXTINF:-1 tvg-id="DISCOVERY TURBO HD" tvg-name="" tvg-logo="https://lo1.in/BR/distrb.png" group-title="Canais | Documentarios",Discovery TURBO HD
 http://15.235.50.112:14097
@@ -25,7 +25,7 @@ http://185.236.183.117:14440/
 http://185.236.183.118:14165
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-name="" tvg-logo="https://lo1.in/BR/anmpl.png" group-title="Canais | Documentarios",Animal Planet HD
-https://aipapai.shop/_temp/animalplanet.m3u8
+http://cdn.bomberstream.xyz/huan/animalplanethd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY2" tvg-name="" tvg-logo="https://lo1.in/BR/h2.png" group-title="Canais | Documentarios",H2 SD
 https://aipapai.shop/_temp/history2.m3u8
@@ -101,10 +101,10 @@ http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=59168&extensio
 http://79.127.238.228:14647
 
 #EXTINF:-1 tvg-id="SPACE HD" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | Filmes e Series", SPACE HD
-http://148.113.160.48:14640
+http://148.113.160.49:14169
 
 #EXTINF:-1 tvg-id="SPACE HD" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | Filmes e Series",SPACE FHD
-http://148.113.160.48:14640
+http://148.113.160.49:14169
 
 #EXTINF:-1 tvg-id="TCM BR" tvg-logo="https://lo1.in/BR/tcm.png" group-title="Canais | Filmes e Series", TCM HD
 http://185.236.183.117:14670
@@ -113,7 +113,7 @@ http://185.236.183.117:14670
 http://15.235.50.115:14008
 
 #EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://lo1.in/BR/telact.png" group-title="Canais | Filmes e Series", TELECINE ACTION HD
-http://185.236.183.117:14674
+http://46.151.196.223:14326
 
 #EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://lo1.in/BR/telact.png" group-title="Canais | Filmes e Series", TELECINE ACTION FHD
 http://185.236.183.117:14674
@@ -441,3 +441,4 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/162
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | Esportes", PREMIERE J HD
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/163
+
