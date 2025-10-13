@@ -1,24 +1,44 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Rush No Limite da Emocao" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/va0WgAJBvrdIUnr0uetSqidNG6N.jpg" group-title="FILMES: GEARHEAD",Rush No Limite da Emocao
+http://techragdois.space:80/movie/090720634/959666174/6286949.mp4
+#EXTINF:-1 tvg-name="Senna: 30 Anos" tvg-logo="https://image.tmdb.org/t/p/w400/sxry8EmajERFtsikKFbrezRepEZ.jpg" group-title="FILMES: GEARHEAD",Senna: 30 Anos
+http://techragdois.space:80/movie/090720634/959666174/6262657.mp4
+#EXTINF:-1 tvg-name="Gran Turismo: De Jogador A Corredor" tvg-logo="https://image.tmdb.org/t/p/w400/qU60nhBRbKU23gIGrZi2CvUj6MQ.jpg" group-title="FILMES: GEARHEAD",Gran Turismo: De Jogador A Corredor
+http://techragdois.space:80/movie/090720634/959666174/6261082.mp4
+#EXTINF:-1 tvg-name="Armageddon Os Carros Mais Rapidos Do Brasil" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdWwqMOqQ030Lqrwldb5e2QBGmL.jpg" group-title="FILMES: GEARHEAD",Armageddon Os Carros Mais Rapidos Do Brasil
+http://techragdois.space:80/movie/090720634/959666174/6286885.mp
 
+#EXTINF:-1 tvg-name="Carros" tvg-logo="https://image.tmdb.org/t/p/w400/2nM2NRV8wt3n3ffoHQ3KdMkY3vR.jpg" group-title="FILMES: VARIADOS",Carros
+http://techragdois.space:80/movie/090720634/959666174/6255801.mp4
+#EXTINF:-1 tvg-name="Carros 2" tvg-logo="https://image.tmdb.org/t/p/w400/fIKaabvE40T39nOIngcZPcPJeYe.jpg" group-title="FILMES: VARIADOS",Carros 2
+http://techragdois.space:80/movie/090720634/959666174/6255802.mp4
+#EXTINF:-1 tvg-name="Carros 3" tvg-logo="https://image.tmdb.org/t/p/w400/wXMAGlcr6pqn0NHvoTatxXeUtW8.jpg" group-title="FILMES: VARIADOS",Carros 3
+http://techragdois.space:80/movie/090720634/959666174/6255803.mp4
 
-#EXTINF:-1 tvg-id="BR - Cultura" tvg-name="TV CULTURA [FHD][H265]" tvg-logo="http://cc90.one/ONS" group-title="Canais | Abertos",TV CULTURA [FHD][H265]
-http://pfsv.io:80/Vinaocore/vinao123./30183.ts
-
-#EXTINF:-1 tvg-name="Divertida Mente 2 (2024) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGvz7nlGQeePcVOpAzOcHsC7kRt.jpg" group-title="Filmes | 4K",Divertida Mente 2 (2024) 4K
-http://pfsv.io:80/movie/Vinaocore/vinao123./241416.mp4
-
-#EXTINF:-1 tvg-name="Divertida Mente 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9h2KgGXSmWigNTn3kQdEFFngj9i.jpg" group-title="Filmes | Lançamentos 2024",Divertida Mente 2 (2024)
-http://pfsv.io:80/movie/Vinaocore/vinao123./241415.mp4
-
-
-#EXTINF:-1 tvg-name="Sonic 3: O Filme (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HzA55GCjRTEC2YhPGna8Lc8qHo.jpg" group-title="Filmes | Lançamentos 2024",Sonic 3: O Filme (2024)
-http://chanelvs.click:80/movie/6042289/d189Q3172C/537879.mp4
-
-#EXTINF:-1 tvg-name="Sonic 3 - O Filme (2024) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HzA55GCjRTEC2YhPGna8Lc8qHo.jpg" group-title="Filmes | 4K",Sonic 3 - O Filme (2024) 4K
-http://chanelvs.click:80/movie/6042289/d189Q3172C/537887.mp4
-
-
-
+#EXTINF:-1 tvg-name="Velozes E Furiosos" tvg-logo="https://image.tmdb.org/t/p/w400/rKaaYM4CtuJZFdOA0SZWbaMNHbn.jpg" group-title="COLEÇÃO: VELOZES E FURIOSOS",Velozes E Furiosos
+http://techragdois.space:80/movie/090720634/959666174/6255575.mp4
+#EXTINF:-1 tvg-name="Velozes E Furiosos Turbo-Charged Prelude" tvg-logo="https://image.tmdb.org/t/p/w400/cmhFOjy47UqrOafl0oQiygcJ7oT.jpg" group-title="COLEÇÃO: VELOZES E FURIOSOS",Velozes E Furiosos Turbo-Charged Prelude
+http://techragdois.space:80/movie/090720634/959666174/6255576.mp4
+#EXTINF:-1 tvg-name="Velozes E Furiosos Desafio Em Toquio" tvg-logo="https://image.tmdb.org/t/p/w400/qexEesWpZgxLFlOrm54Sjn3Z7Y0.jpg" group-title="COLEÇÃO: VELOZES E FURIOSOS",Velozes E Furiosos Desafio Em Toquio
+http://techragdois.space:80/movie/090720634/959666174/6255577.mp4
+#EXTINF:-1 tvg-name="Velozes E Furiosos 4" tvg-logo="https://image.tmdb.org/t/p/w400/zvjQPVttJWaCSbzMijyc2x2MLr4.jpg" group-title="COLEÇÃO: VELOZES E FURIOSOS",Velozes E Furiosos 4
+http://techragdois.space:80/movie/090720634/959666174/6255578.mp4
+#EXTINF:-1 tvg-name="Velozes & Furiosos 5 Operacao Rio" tvg-logo="https://image.tmdb.org/t/p/w400/5BKmQMUPOEtDFDCBW8jrUCI9ZbI.jpg" group-title="COLEÇÃO: VELOZES E FURIOSOS",Velozes & Furiosos 5 Operacao Rio
+http://techragdois.space:80/movie/090720634/959666174/6255579.mp4
+#EXTINF:-1 tvg-name="Velozes & Furiosos 6" tvg-logo="https://image.tmdb.org/t/p/w400/h8SD0Kkqv3PUBneQX9tFsDrFu8.jpg" group-title="COLEÇÃO: VELOZES E FURIOSOS",Velozes & Furiosos 6
+http://techragdois.space:80/movie/090720634/959666174/6255580.mp4
+#EXTINF:-1 tvg-name="Velozes & Furiosos 7" tvg-logo="https://image.tmdb.org/t/p/w400/vK3EINuibdkBwUe9jOhVUXtLeb6.jpg" group-title="COLEÇÃO: VELOZES E FURIOSOS",Velozes & Furiosos 7
+http://techragdois.space:80/movie/090720634/959666174/6255581.mp4
+#EXTINF:-1 tvg-name="Velozes & Furiosos 8" tvg-logo="https://image.tmdb.org/t/p/w400/szI6BlmDQNBoAJF3Zg2qLJe1UEM.jpg" group-title="COLEÇÃO: VELOZES E FURIOSOS",Velozes & Furiosos 8
+http://techragdois.space:80/movie/090720634/959666174/6255582.mp4
+#EXTINF:-1 tvg-name="Velozes & Furiosos 9" tvg-logo="https://image.tmdb.org/t/p/w400/7a2sfQ3wkJNarqGTha9rYlhZxJt.jpg" group-title="COLEÇÃO: VELOZES E FURIOSOS",Velozes & Furiosos 9
+http://techragdois.space:80/movie/090720634/959666174/6255583.mp4
+#EXTINF:-1 tvg-name="Velozes & Furiosos Hobbs & Shaw" tvg-logo="https://image.tmdb.org/t/p/w400/w5HWdAJyAbfpXbXDmEt5OIpf6kQ.jpg" group-title="COLEÇÃO: VELOZES E FURIOSOS",Velozes & Furiosos Hobbs & Shaw
+http://techragdois.space:80/movie/090720634/959666174/6255584.mp4
+#EXTINF:-1 tvg-name="Velozes & Furiosos 10" tvg-logo="https://image.tmdb.org/t/p/w400/wDWAA5QApz5L5BKfFaaj8HJCAQM.jpg" group-title="COLEÇÃO: VELOZES E FURIOSOS",Velozes & Furiosos 10
+http://techragdois.space:80/movie/090720634/959666174/6255286.mp4
+#EXTINF:-1 tvg-name="Super Velozes Mega Furiosos" tvg-logo="https://image.tmdb.org/t/p/w400/mxu2bJQfTAylPVS4ufnZ5bv9wiH.jpg" group-title="COLEÇÃO: VELOZES E FURIOSOS",Super Velozes Mega Furiosos
+http://techragdois.space:80/movie/090720634/959666174/6255509.mp4
 
 
 #EXTINF:-1 tvg-name="Gravity Falls: Um Verão De Mistérios S02E21" tvg-logo="http://cc90.one/IMY6" group-title="Series | Disney Plus",Gravity Falls: Um Verão De Mistérios S02E21
