@@ -34,10 +34,10 @@ https://aipapai.shop/_temp/history2.m3u8
 http://185.236.183.117:14391
 
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="" tvg-logo="https://lo1.in/BR/histch.png" group-title="Canais | Documentarios",History HD
-http://15.235.11.7:14132
+http://46.151.196.223:14413
 
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="" tvg-logo="https://lo1.in/BR/histch.png" group-title="Canais | Documentarios",History FHD
-http://15.235.11.7:14132
+http://46.151.196.223:14413
 
 ################## FILMES E SERIES
 
@@ -101,16 +101,16 @@ http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=59168&extensio
 http://79.127.238.228:14647
 
 #EXTINF:-1 tvg-id="SPACE HD" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | Filmes e Series", SPACE HD
-http://148.113.160.49:14169
+http://46.151.196.223:14607
 
 #EXTINF:-1 tvg-id="SPACE HD" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | Filmes e Series",SPACE FHD
-http://148.113.160.49:14169
+http://46.151.196.223:14608
 
 #EXTINF:-1 tvg-id="TCM BR" tvg-logo="https://lo1.in/BR/tcm.png" group-title="Canais | Filmes e Series", TCM HD
 http://185.236.183.117:14670
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://lo1.in/BR/telcnpr.png" group-title="Canais | Filmes e Series", TELECINE PREMIUM HD
-http://15.235.50.115:14008
+http://s2.micineovs.com/TELECINEPREMIUM/index.m3u8?token=16FOTt9Ae2m8
 
 #EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://lo1.in/BR/telact.png" group-title="Canais | Filmes e Series", TELECINE ACTION HD
 http://46.151.196.223:14326
@@ -125,7 +125,7 @@ http://15.235.50.115:14006
 http://15.235.50.115:14005
 
 #EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://lo1.in/BR/telcnto.png" group-title="Canais | Filmes e Series", TELECINE TOUCH HD
-http://185.236.183.117:14691/
+http://46.151.196.223:14356
 
 #EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://lo1.in/BR/telcef.png" group-title="Canais | Filmes e Series", TELECINE FUN HD
 http://185.236.183.117:14679/
@@ -357,7 +357,7 @@ http://45.134.141.162:3366/stream/cazetv/event1/master.m3u8
 http://185.236.183.117:14061
 
 #EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://lo1.in/BR/sp.png" group-title="Canais | Esportes", SPORTV 1 HD
-http://15.235.15.230:14047
+https://cr7v.short.gy/manoiTVOP1/sptv1/75991634025/index.m3u8
 
 #EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://lo1.in/BR/sp.png" group-title="Canais | Esportes", SPORTV 1 FHD
 http://15.235.15.230:14047
@@ -374,7 +374,7 @@ https://aipapai.shop/_temp/sportv3.m3u8
 http://185.236.183.117:14651
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://lo1.in/BR/espbrs.png" group-title="Canais | Esportes", ESPN BRASIL 1 HD
-https://aipapai.shop/_temp/espn.m3u8
+http://46.151.196.223:14432
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://lo1.in/BR/espbrs.png" group-title="Canais | Esportes", ESPN BRASIL 2 HD
 https://aipapai.shop/_temp/espn2.m3u8
@@ -392,7 +392,7 @@ http://185.236.183.118:14213
 http://185.236.183.118:14194
 
 #EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="Canais | Esportes", PREMIERE CLUBES HD
-http://15.235.50.112:14020
+https://cr7v.short.gy/aoVIVO/PPVaoVIVO/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/BR/prme2.png" group-title="Canais | Esportes", PREMIERE 2 HD
 https://aipapai.shop/_temp/premiere2.m3u8
