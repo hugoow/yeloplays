@@ -1,19 +1,21 @@
 #EXTM3U
+
 ################## Documentarios
+
 #EXTINF:-1 tvg-id="DISCOVERY HD" tvg-name="" tvg-logo="https://lo1.in/BR/disch.png" group-title="Canais | Documentarios",Discovery CHANNEL HD
-http://148.113.160.48:14142
+http://46.151.196.223:14074
 
 #EXTINF:-1 tvg-id="DISCOVERY HD" tvg-name="" tvg-logo="https://lo1.in/BR/disch.png" group-title="Canais | Documentarios",Discovery CHANNEL SD
-http://148.113.160.48:14142
+http://46.151.196.223:14074
 
 #EXTINF:-1 tvg-id="DISCOVERY TURBO HD" tvg-name="" tvg-logo="https://lo1.in/BR/distrb.png" group-title="Canais | Documentarios",Discovery TURBO HD
-http://15.235.50.112:14097
+http://79.127.243.211:14785
 
 #EXTINF:-1 tvg-id="DISCOVERY TURBO HD" tvg-name="" tvg-logo="https://lo1.in/BR/distrb.png" group-title="Canais | Documentarios",Discovery Turbo HD
-http://15.235.50.112:14097
+http://79.127.243.211:14785
 
 #EXTINF:-1 tvg-id="DISCOVERY HOME&amp;HEALTH HD" tvg-name="" tvg-logo="https://lo1.in/arg/hhh.png" group-title="Canais | Documentarios",Discovery H&H HD
-http://185.236.183.118:14146
+http://79.127.243.211:14769
 
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE HD" tvg-name="" tvg-logo="https://lo1.in/BR/dissci.png" group-title="Canais | Documentarios",Discovery SCIENCE HD
 http://15.235.50.112:14106/
@@ -22,10 +24,10 @@ http://15.235.50.112:14106/
 http://185.236.183.117:14440/
 
 #EXTINF:-1 tvg-id="DISCOVERY WORLD HD" tvg-name="" tvg-logo="https://lo1.in/BR/diswrd.png" group-title="Canais | Documentarios",Discovery World HD
-http://185.236.183.118:14165
+http://79.127.243.211:14789
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-name="" tvg-logo="https://lo1.in/BR/anmpl.png" group-title="Canais | Documentarios",Animal Planet HD
-http://cdn.bomberstream.xyz/huan/animalplanethd/chunks.m3u8
+http://79.127.243.211:14370
 
 #EXTINF:-1 tvg-id="HISTORY2" tvg-name="" tvg-logo="https://lo1.in/BR/h2.png" group-title="Canais | Documentarios",H2 SD
 https://aipapai.shop/_temp/history2.m3u8
@@ -60,10 +62,10 @@ http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=59205&extensio
 http://185.236.183.118:14113
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://lo1.in/BR/axn.png" group-title="Canais | Filmes e Series", AXN HD
-https://cdn-5.nxplay.com.br/AXN_TK/index.m3u8
+http://79.127.243.211:14569
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://lo1.in/BR/axn.png" group-title="Canais | Filmes e Series", AXN FHD
-https://cdn-5.nxplay.com.br/AXN_TK/index.m3u8
+http://79.127.243.211:14569
 
 #EXTINF:-1 tvg-id="MEGAPIX HD" tvg-logo="https://lo1.in/BR/megapx.png" group-title="Canais | Filmes e Series", MEGAPIX HD
 http://79.127.238.228:14592
@@ -75,7 +77,7 @@ http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=1689624&extens
 http://185.236.183.116:17445
 
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-logo="https://lo1.in/BR/univ.png" group-title="Canais | Filmes e Series", UNIVERSAL TV HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=1689604&extension=ts
+http://79.127.243.211:14623
 
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="https://lo1.in/BR/univch.png" group-title="Canais | Filmes e Series", STUDIO UNIVERSAL HD
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=1689607&extension=ts
@@ -89,10 +91,10 @@ http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=1689605&extens
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=1689606&extension=ts
 
 #EXTINF:-1 tvg-id="Amc.br" tvg-logo="https://lo1.in/BR/amc.png" group-title="Canais | Filmes e Series", AMC HD
-http://185.236.183.117:14008
+http://79.127.243.211:14565
 
 #EXTINF:-1 tvg-id="Tnt.br" tvg-logo="https://lo1.in/BR/tnt.png" group-title="Canais | Filmes e Series", TNT HD
-http://79.127.238.228:14629
+http://79.127.243.211:14615
 
 #EXTINF:-1 tvg-id="Tnt.br" tvg-logo="https://lo1.in/BR/tntser.png" group-title="Canais | Filmes e Series", TNT SERIES HD
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=59168&extension=ts
@@ -110,10 +112,10 @@ http://46.151.196.223:14608
 http://185.236.183.117:14670
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://lo1.in/BR/telcnpr.png" group-title="Canais | Filmes e Series", TELECINE PREMIUM HD
-http://s2.micineovs.com/TELECINEPREMIUM/index.m3u8?token=16FOTt9Ae2m8
+http://79.127.243.211:14648
 
 #EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://lo1.in/BR/telact.png" group-title="Canais | Filmes e Series", TELECINE ACTION HD
-http://46.151.196.223:14326
+http://79.127.243.211:14632
 
 #EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://lo1.in/BR/telact.png" group-title="Canais | Filmes e Series", TELECINE ACTION FHD
 http://185.236.183.117:14674
@@ -125,7 +127,7 @@ http://15.235.50.115:14006
 http://15.235.50.115:14005
 
 #EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://lo1.in/BR/telcnto.png" group-title="Canais | Filmes e Series", TELECINE TOUCH HD
-http://46.151.196.223:14356
+http://79.127.243.211:14652
 
 #EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://lo1.in/BR/telcef.png" group-title="Canais | Filmes e Series", TELECINE FUN HD
 http://185.236.183.117:14679/
@@ -134,13 +136,13 @@ http://185.236.183.117:14679/
 http://185.236.183.117:14695
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://lo1.in/BR/hbo.png" group-title="Canais | Filmes e Series", HBO HD
-http://185.236.183.117:14186
+http://79.127.243.211:14668
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://lo1.in/BR/hbo.png" group-title="Canais | Filmes e Series", HBO FHD
-http://185.236.183.117:14395
+http://79.127.243.211:14668
 
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://lo1.in/BR/hbo.png" group-title="Canais | Filmes e Series", HBO 2 HD
-http://185.236.183.117:14399
+http://79.127.243.211:14660
 
 #EXTINF:-1 tvg-id="HBO Max" tvg-logo="https://lo1.in/BR/hbom.png" group-title="Canais | Filmes e Series", HBO MAX HD
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/255
